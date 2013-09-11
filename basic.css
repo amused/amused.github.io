@@ -21,7 +21,6 @@ p {
 	margin: 4px 3px 8px 0;
 	text-align: justify;
 	line-height: 1.5em;
-	text-indent: 14px;
 }
 
 ul, ol {
@@ -34,10 +33,6 @@ img {
 	margin: 8px 0 0 0;
 	border: 1px solid #383838;
 	max-width:  600px;
-}
-
-p>img {
-	margin-left:  -14px;
 }
 
 blockquote p {
@@ -64,7 +59,7 @@ h1 a:hover {
 
 h2 {
 	font-size: 22pt;
-    margin-bottom: 12px;
+    margin-bottom: 22px;
 }
 
 h2 a {
