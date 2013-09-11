@@ -1,0 +1,5 @@
+paginate: 5
+
+permalink: /:year/:month/:title.html
+
+url: http://amused.github.io
