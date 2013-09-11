@@ -6,10 +6,11 @@
 body {
 	font-family: 'Palatino', 'Calibri', serif;
 	background-color: #ebf4fa;
-	margin: 26px;
-	width: 576px;
+	width: 676px;
 	border-right: 1px solid #37A096;
     line-height: 150%;
+	margin: auto;
+	padding-top: 26px;
 }
 
 h1, h2, h3 {
