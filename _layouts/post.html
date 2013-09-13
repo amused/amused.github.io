@@ -7,6 +7,13 @@ layout: default
 	<div class="post">
 		<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 		{{ content }}
+		<p class="info">
+			{% include date.html %}
+			{% if page.tags %}{% for tag in page.tags %}
+			<a href="/tag/{{ tag }}.html">#{{ tag }}</a>
+			{% endfor %}{% endif %}
+		</p>
+		
 	</div>
     
 
