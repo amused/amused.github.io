@@ -1,0 +1,24 @@
+---
+layout: default
+title: Nowe Ateny
+---
+
+<div id="posts">
+{% for post in page.posts %}
+  	<div class="post">
+		<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		{% if post.summary %}
+			{{ post.summary | markdownify }}
+			<p><a href="{{ post.url }}">Czytaj dalej →</a></p>
+		{% else %}{{ post.content }}
+		{% endif %}
+		<p class="info">
+			{% include date.html %}
+			{% if page.tags %}{% for tag in page.tags %}
+			<a href="/tag/{{ tag }}.html">#{{ tag }}</a>
+			{% endfor %}{% endif %}
+		</p>
+		
+	</div>
+{% endfor %}
+</div>
