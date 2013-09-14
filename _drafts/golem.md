@@ -77,10 +77,10 @@ Legenda o praskim Golemie jest z Loewem silnie związana najprawdopodobniej prze
 
 ### Gustav Meyrink, "Golem"
 
-Golema z Pragi już w XIX wieku zaczęła żyć własnym życiem, do dzisiaj ukazały się setki najróżniejszych wersji legendy (a niektórzy z badaczy zauważają, że takie postaci jak Superman czy Terminator to wcale nie tak dalekie echa Golema właśnie). Najsłynniejszą z nich pozostaje *Der Golem*, powieść Gustava Meyrinka z 1914 roku.
+Historia Golema z Pragi już w XIX wieku zaczęła żyć własnym życiem, do dzisiaj ukazały się setki najróżniejszych wersji legendy (a niektórzy z badaczy zauważają, że takie postaci jak Superman czy Terminator to wcale nie tak dalekie echa Golema właśnie). Najsłynniejszą z nich pozostaje *Der Golem*, powieść Gustava Meyrinka z 1914 roku.
 
 ![Gustav Meyrink, "Golem"](/assets/meyrink-golem.png)
 
-Debiut Meyrinka jest o tyle ciekawy, że — mimo tytułu — nie bierze za temat samej postaci Golema, ale całą mistykę żydowską tak, jak była ona rozumiana na przełomie XIX i XX wieku. Golem przenika swoją postacią całą powieść, ani razu nie pojawiając się wprost — fabuła skupia się na Atanazym Pernacie, jubilerze zamieszkującym getto w Pradze.
+Debiut Meyrinka jest o tyle ciekawy, że — mimo tytułu — nie bierze za temat samej postaci Golema, ale całą mistykę żydowską tak, jak była ona rozumiana na przełomie XIX wieku. Golem przenika swoją postacią całą powieść, ani razu nie pojawiając się wprost — fabuła skupia się na Atanazym Pernacie, jubilerze zamieszkującym getto w Pradze.
 
 *Golema* fantastycznie przetłumaczył na język polski poeta Antoni Lange już pięć lat po premierze powieści, w 1919 roku — przekład można znaleźć w internetach w dwóch wersjach: [tekstowej na Wolnych Lekturach](http://wolnelektury.pl/katalog/lektura/golem/) i ślicznie wydanej [oryginalnej na Polonie](http://polona.pl/item/143700/2/) (ta czcionka!).
