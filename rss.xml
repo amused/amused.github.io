@@ -8,7 +8,16 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Sat, 14 Sep 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 15 Sep 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Umberto Eco, «Cmentarz w Pradze»</title>
+      <link>http://amused.github.io/2013/09/eco-cmentarzwpradze.html</link>
+      <description>Nie, akcja *Cmentarza w Pradze* nie ma wiele wspólnego ze Starym Cmentarzem Żydowskim w stolicy Czech — to raczej fabularny przegląd wszystkich spisków II połowy XIX wieku. Fałszerz Simone Simonini, główny bohater powieści, rzucany jest przez autora w sam środek wielkich konspiracji: spiskuje z jezuitami przeciwko masonom i z masonami przeciwko jezuitom, bierze udział w stłumieniu Komuny Paryskiej, aferze Dreyfusa i publikacji *Protokołów mędrców Syjonu* — i, tak naprawdę, nienawidzi tylko Żydów.
+
+</description>
+      <pubDate>Sun, 15 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-15T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Golem w Chełmie, Pradze i kulturze</title>
       <link>http://amused.github.io/2013/09/golem.html</link>
@@ -63,6 +72,6 @@
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-10T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-09-14T00:00:00+02:00</dc:date>
+    <dc:date>2013-09-15T00:00:00+02:00</dc:date>
   </channel>
 </rss>
