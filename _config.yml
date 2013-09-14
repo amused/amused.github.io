@@ -4,7 +4,8 @@ paginate_path: "archive/:num"
 permalink: /:year/:month/:title.html
 
 url: http://amused.github.io
-name: Nowe Ateny
+name: "Nowe Ateny"
+description: "Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)"
 
 tag_page_layout: tag
 tag_page_dir: tag
