@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" prefix="og: http://ogp.me/ns#">
     <head>
     	<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="/basic.css" />
 		<meta charset="utf-8" />
+		<meta property="og:title" content="{{ page.title }}"/>
+		<meta property="og:type" content="blog"/>
+		<meta property="og:url" content="{{ site.url }}"/>
+		<meta property="og:image" content="http://ia.media-imdb.com/rock.jpg"/>
+		<meta property="og:site_name" content="{{ site.title }}"/>
+		<meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ page.excerpt }}{% endif %}"/>
 	</head>
 	<body>
 <div id="main">

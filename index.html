@@ -16,7 +16,7 @@ title: Nowe Ateny
 		<p class="info">
 			{% include date.html %}
 			{% if post.tags %}{% for tag in post.tags %}
-			<a href="/tag/{{ tag }}.html">#{{ tag }}</a>
+			<a href="/tag/{{ tag }}.html" rel="tag">#{{ tag }}</a>
 			{% endfor %}{% endif %}
 		</p>
 	</div>
