@@ -100,6 +100,9 @@ blockquote {
 .info {
 	margin-top: 30px;
 }
+#navigation {
+	margin-bottom: 30px;
+}
 
 /* IMAGES, LISTS, BLOCKQUOTES */
 img {
