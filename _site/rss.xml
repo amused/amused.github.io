@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Nowe Ateny</title>
+    <link>http://amused.github.io</link>
+    <description>RSS feed for Nowe Ateny</description>
+    <pubDate>Fri, 13 Sep 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Czeska Praga</title>
+      <link>http://amused.github.io/2013/09/praha.html</link>
+      <description>Blablabla.
+
+</description>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-13T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Lorem ipsum</title>
+      <link>http://amused.github.io/2013/09/lorem.html</link>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+</description>
+      <pubDate>Fri, 13 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-13T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Karpiński o Stempowskim</title>
+      <link>http://amused.github.io/2013/09/stempowski3.html</link>
+      <description>Na stronie internetowego magazynu Dwutygodnik.com znalazłem poświęcony Jerzemu Stempowskiemu esej Wojciecha Karpińskiego z jego książki wspomnieniowej Twarze. Warto przeczytać całość, poniżej przytaczam tylko jeden akapit.
+
+</description>
+      <pubDate>Thu, 12 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-12T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Stempowski o dwudziestoleciu</title>
+      <link>http://amused.github.io/2013/09/stempowski2.html</link>
+      <description>Jerzy Stempowski, *Notatnik niespiesznego przechodnia* (XXVI):
+
+</description>
+      <pubDate>Wed, 11 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-11T00:00:00+02:00</dc:date>
+    </item>
+    <item>
+      <title>Stempowski o szkolnictwie</title>
+      <link>http://amused.github.io/2013/09/stempowski1.html</link>
+      <description>Jerzy Stempowski, *Notatnik niespiesznego przechodnia* (XX):
+
+</description>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-10T00:00:00+02:00</dc:date>
+    </item>
+    <dc:date>2013-09-13T00:00:00+02:00</dc:date>
+  </channel>
+</rss>
