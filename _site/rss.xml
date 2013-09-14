@@ -8,7 +8,16 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Fri, 13 Sep 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 14 Sep 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Golem w Chełmie, Pradze i kulturze</title>
+      <link>http://amused.github.io/2013/09/golem.html</link>
+      <description>### Golem
+
+</description>
+      <pubDate>Sat, 14 Sep 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-09-14T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Czeska Praga</title>
       <link>http://amused.github.io/2013/09/praha.html</link>
@@ -54,6 +63,6 @@
       <pubDate>Tue, 10 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-10T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-09-13T00:00:00+02:00</dc:date>
+    <dc:date>2013-09-14T00:00:00+02:00</dc:date>
   </channel>
 </rss>
