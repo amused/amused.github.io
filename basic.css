@@ -97,11 +97,18 @@ blockquote {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+blockquote p {
+	margin-bottom: 6px;
+}
 .info {
 	margin-top: 30px;
 }
 #navigation {
 	margin-bottom: 30px;
+}
+img {
+	margin-top: 6px;
+	margin-bottom: 6px;
 }
 
 /* IMAGES, LISTS, BLOCKQUOTES */
