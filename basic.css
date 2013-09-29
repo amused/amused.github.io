@@ -13,7 +13,12 @@
 #main {
 	font-family: 'Georgia', serif;
 	font-size: 14pt;
-	line-height: 1.5em;
+	line-height: 1.6em;
+	text-align: justify;			    			
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
 }
 h1, h2, h3 {
 	font-family: 'Trebuchet MS', sans-serif;
@@ -24,12 +29,16 @@ h1 {
 h2 {
 	font-size: 24pt;
 	border-bottom: 1px solid;
+	line-height: 1.1em;
 }
 h3 {
 	font-size: 18pt;
 }
 a {
 	text-decoration: none;
+}
+blockquote * {
+	font-family: 'Palatino', 'Georgia', serif;
 }
 
 /* COLORS */
@@ -61,10 +70,13 @@ p a:hover {
 	color: rgb(132, 155, 156);
 }
 blockquote {
-	color: rgb(66, 77, 73);
+	color: rgb(51, 51, 51);
 }
 img {
 	border-color: rgb(0, 0, 0);
+}
+strong {
+	color:  rgb(31, 69, 89);
 }
 
 /* MARGINS & PADDINGS */
