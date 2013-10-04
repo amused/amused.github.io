@@ -8,7 +8,16 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Fri, 04 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 05 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Plica polonica</title>
+      <link>http://amused.github.io/2013/10/plicapolonica.html</link>
+      <description>Czytając Heinego *O Polsce*, natrafiłem na taki ustęp (pisany przez niemieckiego poetę romantycznego z wyraźnym zachwytem):
+
+&gt; U chłopa konstytucya ciała jest silna; zbudowany doskonale, wygląda na urodzonego żołnierza, a włosy ma zwyczajnie jasne, i najczęściej dozwala im opadać w długich kędziorach. Tej okoliczności przypisać należy tak częste u chłopów pojawianie się kołtuna (*Plica polonica*), bardzo sympatycznej choroby, którą zapewne i my kiedyś pobłogosławieni będziemy, gdy noszenie długich włosów rozpowszechni się w niemieckich ziemiach.</description>
+      <pubDate>Sat, 05 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-05T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Leczenie Lewisa Sayre</title>
       <link>http://amused.github.io/2013/10/lewissayre.html</link>
@@ -135,6 +144,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-04T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-05T00:00:00+02:00</dc:date>
   </channel>
 </rss>
