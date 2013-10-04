@@ -8,7 +8,18 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Thu, 03 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 04 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Leczenie Lewisa Sayre</title>
+      <link>http://amused.github.io/2013/10/lewissayre.html</link>
+      <description>![Leczenie Lewisa Sayre](/assets/sayre1.jpg)
+
+Z historii medycyny XIX wieku --- leczenie schorzeń kręgosłupa rewolucyjną metodą doktora Lewisa Sayre (lata 70. XIX wieku). Poniżej cały proces *naprawiania* w trzech prostych krokach:
+
+![Leczenie Lewisa Sayre](/assets/sayre2.jpg)</description>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-04T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>O edukacji pisarzy</title>
       <link>http://amused.github.io/2013/10/edukacjapisarzy.html</link>
@@ -124,6 +135,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-03T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-04T00:00:00+02:00</dc:date>
   </channel>
 </rss>
