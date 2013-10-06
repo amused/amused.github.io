@@ -8,11 +8,20 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Sun, 06 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Mon, 07 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Urlop w Sopocie</title>
+      <link>http://amused.github.io/2013/10/sopot-urlop.html</link>
+      <description>List 150. w zbiorze epistoł Boya z 1972 roku (wyd. I), kartka pocztowa z 1922 roku, &quot;napisana podczas urlopu spędzanego z \[Kornelem\] Makuszyńskim w Sopocie&quot; --- do żony Makuszyńskiego, Emilii.
+
+&gt; Pani Emmo, ręce pani całuję, szkoda, że nie ma Pani, z nikim się tak przyjemnie nie pije jak z panią; jesteśmy urżnięci jak Świnie, szczerze oddany --- Boy</description>
+      <pubDate>Mon, 07 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-07T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Władysław Syrokomla o sobie</title>
       <link>http://amused.github.io/2013/10/syrokomla-wilkonski.html</link>
-      <description>W jednym z pierwszych listów Syrokomli (Ludwika Kondratowicza) do Augusta Wilkońskiego (które przytacza w swoich wspomnieniach jego żona, Paulina) poeta, po całym akapicie usprawiedliwień za późną odpowiedź, opowiada korespondentowi o sobie w tycn słowach (rok --- 1851):
+      <description>W jednym z pierwszych listów Syrokomli (Ludwika Kondratowicza) do Augusta Wilkońskiego (które przytacza w swoich wspomnieniach jego żona, Paulina) poeta, po całym akapicie usprawiedliwień za późną odpowiedź, opowiada korespondentowi o sobie w tych słowach (rok --- 1851):
 
 &gt; Oto urodziłem się w roku 1823; odbyłem wychowanie w szkołach prowincjonalnych, potem wałęsałem się po drodze żywota lat kilka; potem się w roku 1844 ożeniłem; jednocześnie wziąłem w rękę to oto pióro (szczęście moje... zgubę moją!) i osiadłem stale na wsi dzierżawiąc od księcia Wittgensteina Załucze.
 &gt;
@@ -163,6 +172,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-06T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-07T00:00:00+02:00</dc:date>
   </channel>
 </rss>
