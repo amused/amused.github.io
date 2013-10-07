@@ -8,11 +8,20 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Mon, 07 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 08 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Kartka z 1848 roku</title>
+      <link>http://amused.github.io/2013/10/1848-kartka.html</link>
+      <description>Z Jerzego Wojciecha Borejszy biografii Armanda Lévy'ego pod tytułem *Sekretarz Adama Mickiewicza* kartka z historii paryskiej rewolucji 1848 roku:
+
+&gt; W dniach powstania czerwcowego jeden z emigrantów polskich, Józef Jeżewski, z gałązką w ręku wmieszał się między walczących, aby ich pogodzić. Po obu stronach barykady uznano go za pomyleńca. Wobec tego, że nie ustawał w swojej agitacji, musiano go w końcu aresztować. W ten sposób znalazł się w Conciergerie. Groziła mu deportacja. Prefekt policji obiecał zwolnić Jeżewskiego, jeżeli zgoli zbyt długą brodę --- i wtedy, i później oznakę wichrzycieli, anarchistów i socjałów wszelkiego autoramentu. Żona doniosła Jeżewskiemu o &quot;okrutnym żądaniu&quot; prefekta. Wychodźca odmówił wołając: &quot;Jeśli ja nie jestem winny, to cóż winna moja broda?&quot; Nie było rady. Jedynym człowiekiem, którego Jeżewski mógł usłuchać, był Mickiewicz. Poeta powędrował do więzienia z nożycami w kieszeni.</description>
+      <pubDate>Tue, 08 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-08T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Urlop w Sopocie</title>
       <link>http://amused.github.io/2013/10/sopot-urlop.html</link>
-      <description>List 150. w zbiorze epistoł Boya z 1972 roku (wyd. I), kartka pocztowa z 1922 roku, &quot;napisana podczas urlopu spędzanego z \[Kornelem\] Makuszyńskim w Sopocie&quot; --- do żony Makuszyńskiego, Emilii.
+      <description>List 150 w zbiorze epistoł Boya z I wydania, kartka pocztowa z 1922 roku, &quot;napisana podczas urlopu spędzanego z \[Kornelem\] Makuszyńskim w Sopocie&quot; --- do żony Makuszyńskiego, Emilii.
 
 &gt; Pani Emmo, ręce pani całuję, szkoda, że nie ma Pani, z nikim się tak przyjemnie nie pije jak z panią; jesteśmy urżnięci jak Świnie, szczerze oddany --- Boy</description>
       <pubDate>Mon, 07 Oct 2013 00:00:00 +0200</pubDate>
@@ -172,6 +181,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-07T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-08T00:00:00+02:00</dc:date>
   </channel>
 </rss>
