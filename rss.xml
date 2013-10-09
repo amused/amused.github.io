@@ -8,7 +8,30 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Tue, 08 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Wed, 09 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Gomulicki, dwa wiersze</title>
+      <link>http://amused.github.io/2013/10/gomulicki-dwawiersze.html</link>
+      <description>Dwa wiersze Wiktora Gomulickiego z historii literatury polskiego oświecenia, zagubione gdzieś w jego niemłodych już tomach i rzadko przedrukowywane --- *O Trembeckim*:
+
+&gt; Gdy cię widzę, jak wzrostem ogromny i duchem  
+&gt; Rymujesz dla wątłego króla politykę,  
+&gt; Jak potrząsasz powszednich kłopotów łańcuchem,  
+&gt; Jak, z duszą mędrca, wino sławisz i podwikę,  
+&gt; Jak cię rozhartowywa praca mdła i marna --  
+&gt; Zdajesz mi się Samsonem, co obraca żarna.
+
+I *O Księdzu Biskupie Warmińskim* (czyli --- Ignacym Krasickim):
+
+&gt; Takiś przejrzysty, mój Mości Biskupie,  
+&gt; Że przez twe książki jak przez szkło puchara  
+&gt; Widać, czym serca nalana jest czara:  
+&gt; Żeś wróg wszystkiego, co złe i co głupie,  
+&gt; Że szczęście ściągnąć chcesz na polskie niwy  
+&gt; I --- że sam jesteś ogromnie szczęśliwy!</description>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-09T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Kartka z 1848 roku</title>
       <link>http://amused.github.io/2013/10/1848-kartka.html</link>
@@ -181,6 +204,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-08T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-09T00:00:00+02:00</dc:date>
   </channel>
 </rss>
