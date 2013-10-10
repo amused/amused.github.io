@@ -8,7 +8,36 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Wed, 09 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Giulio Cesare Vanini</title>
+      <link>http://amused.github.io/2013/10/vanini.html</link>
+      <description>Na nazwisko Vaniniego po raz pierwszy natknąłem się przeglądając poświęconą libertynizmowi w poezji polskiej XVIII wieku książkę Jerzego Snopka, *Objawienie i oświecenie* --- poniżej krótki fragment:
+
+&gt; W XVII-wiecznej Francji bardzo istotne okazały się wpływy nurtu naturalistycznego. Czołowy jej przedstawiciel --- Giulio Cesare Vanini --- wziął osobiście udział w kształtowaniu *libertage érudit*, co zresztą przypłacił życiem. Oskarżono go o ateizm i spalono na stosie w 1619 roku. Przed śmiercią miał wyrzec następujące słowa: &quot;Jezus nie był Bogiem, ale człowiekiem, tak jak ja, i pocił się z lęku przed śmiercią, a ja potrafię umrzeć odważniej. W ogóle nie ma innego Boga jak przyroda, ona jedynie jest wieczna&quot;. Po śmierci libertyna jego nazwisko stało się symbolem ateizmu i rozwiązłości obyczajów. Bayle był jednym z wielkich obrońców Vaniniego, a Wolter twierdził, że rozumienie przez niego Boga jest całkowicie zgodne z teologią. Przyjął się zresztą sąd, że umysłowość Włocha, mimo iż przejęła i zradykalizowała idee Cardana i przede wszystkim Pompanazziego, była jeszcze obciążona zgoła średniowiecznym pociągiem do kabalistyki.
+
+![Friedrich Holderlin](/assets/friedrichholderlin1.jpg)
+
+A przypomniał mi się tekst Snopka --- notabene jedno z nielicznych naukowych źródeł poświęconych libertynizmowi w Polsce --- przy okazji lektury poezji Friedricha Hölderlina (na obrazie powyżej), które znalazłem w zbiorze *Co się ostaje, ustanawiają poeci* w przekładzie Antoniego Libery. Przekładzie w tym przypadku chyba niezbyt udanym, bo całkiem ciężkim i sztywnym, ale to na tyle ciekawa kartka z historii libertynizmu, że zawsze warto przytoczyć. *Vanini*:
+
+&gt; Uznali, żeś bezbożnik! Twoje serce  
+&gt; Napiętnowali klątwą i związawszy,  
+&gt; Rzucili cię w płomienie. Święty mężu,  
+&gt; Czemuś nie wrócił błyskawicą z nieba  
+&gt;   
+&gt; I nie poraził tych oszczerców w głowę,  
+&gt; I nie rozpętał monstrualnej burzy,  
+&gt; Która by barbarzyńskie ich popioły  
+&gt; Zmiotła z tej ziemi, z rodzinnego kraju?  
+&gt;   
+&gt; Święta natura jednak, ktorąś kochał  
+&gt; I która cię przyjęła, kiedyś umarł,  
+&gt; Puszcza w niepamięć wyczyny człowieka  
+&gt; I wróg twój też znajduje wieczny pokój.
+</description>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-10T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Gomulicki, dwa wiersze</title>
       <link>http://amused.github.io/2013/10/gomulicki-dwawiersze.html</link>
@@ -204,6 +233,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-09T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-10T00:00:00+02:00</dc:date>
   </channel>
 </rss>
