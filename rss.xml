@@ -8,7 +8,22 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 11 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Przybyszewscy kontra Krzywicki</title>
+      <link>http://amused.github.io/2013/10/przybyszewscy-krzywicki.html</link>
+      <description>Stanisław Przybyszewski przyjechał z Krakowa do Warszawy w lutym 1901 roku. Pisał wtedy w liście do Jadwigi Kasprowiczowej:
+
+&gt; Dziwną intuicję miałem co do Warszawy. Jest wstrętna, obrzydliwa. Tak! Obrzydliwa. Nie pozostałbym tu długo za nic na świecie.
+
+Został aż do roku 1905.
+
+Wkrótce po przyjeździe Przybyszewskiego do Warszawy przyjechała z Norwegii jego żona --- Dagny Juel. Tak pisze o spotkaniu pary Ludwik Krzywicki w swoich *Wspomnieniach*:
+
+&gt; Po przyjeździe Przybyszewskiego do Warszawy spotkałem go idącego z Dagną na Nowym Świecie. Był ładny poranek wiosenny. Przybyszewski szedł z wysoką blondynką, kształtną, piękną, której włosy w promieniach słońca przekształcały się w złotą aureolę dokoła twarzy. Blondynka szła pod rękę z Przybyszewskim. Podchodząc do mnie, puściła ramię męża, stanęła na środku chodnika, ujęła obiema rękami sukienkę i z całą powagą zrobiła dyg ironiczny. Przechodnie stanęli. Po chwili ze śmiechem ujęła ramię męża i poszli dalej. Było to ironiczne podziękowanie za artykuły moje, wymierzone przeciw przybyszewszczyźnie. Ale jej postać była tak urocza, całe zdarzenie na tle pogody wiosennej i promieni słonecznych miało piętno takiego uroku fantastycznego, iż dzisiaj wypływa w mojej pamięci jako obraz pełen wdzięku i artyzmu.</description>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-11T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Giulio Cesare Vanini</title>
       <link>http://amused.github.io/2013/10/vanini.html</link>
@@ -233,6 +248,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-10T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-11T00:00:00+02:00</dc:date>
   </channel>
 </rss>
