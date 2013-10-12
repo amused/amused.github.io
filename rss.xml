@@ -8,7 +8,38 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Fri, 11 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 12 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Księgarze i pisarze przed sądem</title>
+      <link>http://amused.github.io/2013/10/sadhonorowy.html</link>
+      <description>Jak pisze Roman Taborski w swojej pełnej świetnych anegdot książce *Życie literackie młodopolskiej Warszawy*:
+
+&gt; W warszawskim środowisku literackim zrodziło się podejrzenie, że niektórzy wydawcy w celu zwiększenia dochodów nadbijają znaczną liczbę egzemplarzy wydawanych książek i sprzedają je wyłącznie na swój rachunek. Wobec tego Żeromski, ażeby sprawdzić, ile naprawdę egzemplarzy jego książek jest wypuszczanych na rynek księgarski, opatrzył cały nakład wydanej w połowie 1908 roku *Dumy o hetmanie* zaprojektowanym przez Edwarda Okunia specjalnym ekslibrisem, z numerem porządkowym i podpisem autorskim.
+
+Zacząłem więc poszukiwania pierwszego wydania *Dumy o hetmanie*. Ciekawy byłem nie tylko ilustracji do całej anegdoty, ale i --- ekslibrisu pióra Okunia, jednego z najbardziej utalentowanych młodopolskich rysowników i malarzy, autora głośnych ilustracji do &quot;Chimery&quot; Miriama.
+
+Tym większe było moje zdziwienie, gdy w [drugim jeszcze wydaniu](http://polona.pl/item/2822498/5/) udostępnionym przez Polonę natrafiłem na rzeczony ekslibris z parafką samego Żeromskiego:
+
+![Ekslibris Okunia dla Żeromskiego](/assets/zeromski-okun.png)
+
+&gt; Lorentowicz na prośbę Żeromskiego zamieścił w &quot;Nowej Gazecie&quot; krótki artykuł, w którym wyjaśnił i uzasadnił postępowanie pisarza:
+&gt;
+&gt;&gt; W wydawnictwie tym autor wprowadza w nasze stosunki księgarskie pożądany od dawna zwyczaj kontrolowania ilości odbitych przez wydawcę egzemplarzy. Jak wiadomo, dotychczas układ autora polskiego z wydawcą polegał na tym, że autor musiał bezgranicznie ufać wydawcy. Zaufanie to prowadziło do rezultatów bardzo znamiennych: wydawca zobowiązywał się np. w umowie odbić 2000 egzemplarzy nabytego utworu, a po kilku latach sprzedaży rewizja urzędowa znajdowała w jego składach 29 000 egzemplarzy tej samej książki!
+&gt;
+&gt; W odpowiedzi na ten artykuł przedstawiciele czternastu warszawskich firm wydawniczych nadesłali do &quot;Nowej Gazety&quot; zbiorowy protest \[...\].
+
+Awantura zatoczyła dość szerokie kręgi, powstała podpisana przez aż 194 pisarzy *Deklaracja autorów*, w której domagano się m.in. wprowadzenia &quot;zamiast wymaganego przez księgarzy jednostronnego zaufania, wyraźnego i jasnego zobowiązania obustronnego&quot; --- czyli, innymi słowy, ludzkiego traktowania ludzi pióra.
+
+&gt; Tymczasem zarząd Związku Księgarzy Polskich zażądał od Lorentowicza przedstawienia konkretnych dowodów nadbijania egzemplarzy i skierował całą sprawę do rozpatrzenia przez sąd honorowy. Lorentowicz przedstawił sądowi świadectwa złożone przez Żeromskiego i innych pisarzy, dotyczące nieuczciwego --- ich zdaniem --- postępowania wydawców. Sąd rozpatrywał sprawę bardzo długo i dopiero 22 kwietnia 1910 roku ogłosił wyrok, w którym czytamy:
+&gt;&gt;
+&gt;&gt; 1) że Lorentowicz był uprawniony do podniesienia w prasie kwestii ochrony praw autorskich i, omawiając je w swoim artykule, nie kierował się żadnymi względami prywatnymi, lecz miał na celu sprawę publiczną;
+&gt;&gt;
+&gt;&gt; 2) że Lorentowicz nie miał prawa, bez należytego sprawdzenia i stwierdzenia autentyczności, powołać się na fakt w rzeczywistości nie istniejący w tej postaci, w jakiej go przedstawił w swym artykule;
+&gt;&gt;
+&gt;&gt; 3) że gdyby nawet fakt ten był prawdziwy, to Lorentowicz nie miał prawa rozszerzać oskarżenia na wszystkich wydawców polskich.</description>
+      <pubDate>Sat, 12 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-12T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Przybyszewscy kontra Krzywicki</title>
       <link>http://amused.github.io/2013/10/przybyszewscy-krzywicki.html</link>
@@ -248,6 +279,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-11T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-12T00:00:00+02:00</dc:date>
   </channel>
 </rss>
