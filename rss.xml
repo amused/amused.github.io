@@ -8,7 +8,31 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Sat, 12 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 13 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Syrokomla, «Homerowa dziatwa»</title>
+      <link>http://amused.github.io/2013/10/syrokomla-homerowadziatwa.html</link>
+      <description>Wiersz, który Władysław Syrokomla przesłał Paulinie Wilkońskiej do albumu pamiątek --- drukowany i gdzie indziej zresztą.
+
+&gt; Boże mój, Boże! jak to poecie  
+&gt; Trudno i nudno żyć na tym świecie!  
+&gt; Każdego kocha, ufa bez granic,  
+&gt; I w sercach rymu dla serca szuka;  
+&gt; A dobrzy ludzie mają go za nic,  
+&gt; Bo zwieść poetę niewielka sztuka.  
+&gt; Przecież go każdy zwodzie ochoczy,  
+&gt; My tacy prości, a oni biegli!  
+&gt; Więc na złość światu zamknijmy oczy,  
+&gt; Udajmy, żeśmy nic nie postrzegli.  
+&gt; Niech zwodzi przyjaźń, zwodzi niewiasta,  
+&gt; Niech szarpie krytyk, lichwiarz odziera:  
+&gt; Ślepym był Homer, nasz protoplasta,  
+&gt; Więc bądźmy ślepi na cześć Homera.
+
+Podpisany: Załucze, 1851 rok.</description>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-13T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Księgarze i pisarze przed sądem</title>
       <link>http://amused.github.io/2013/10/sadhonorowy.html</link>
@@ -279,6 +303,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-12T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-13T00:00:00+02:00</dc:date>
   </channel>
 </rss>
