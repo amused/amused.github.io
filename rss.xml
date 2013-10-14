@@ -8,7 +8,18 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Mon, 14 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 15 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Stattler, «Machabeusze»</title>
+      <link>http://amused.github.io/2013/10/stattler-machabeusze.html</link>
+      <description>Z Barbary Bobrowskiej *Małych narracji Prusa* drobna notatka o głośnym dziele polskiego malarstwa romantycznego, *Machabeuszach* Wojciecha Stattlera z 1842 roku:
+
+&gt; Warto zwrócić uwagę na jeden z obrazów prezentowanych w galerii --- przedstawiający Machabeuszy, postaci starotestamentowe. Epizod ich losów to temat niezbyt popularny w ikonografii, ale w świadomości Polaków XIX wieku ważny, bo związany z nazwiskiem Stattlera, znanego malarza romantycznego, i jego niezwykle popularnym w tej epoce dziełem. Obraz Stattlera, któremu patronował sam Mickiewicz, wystawiany w kraju oraz poza nim (został nagrodzony złotym medalem na wystawie paryskiej), zamierzony był przez twórcę i odbierany przez publiczność jako alegoria losów narodu polskiego, zachęta do walki zbrojnej. Tematyka biblijna miała zadanie maskować treści patriotyczne, ale w dziele &quot;schowane&quot; zostały, w silnie zacieniowanym tle, symbole ruchu wyzwoleńczego --- rozkute kajdany. Obraz zatytułowany *Machabeusze* wiązany był w polskiej tradycji z powstaniem listopadowym, choć uniwersalność przesłania alegorycznego czyniła go przedstawieniem ikonicznym oddającym doświadczenia kolejnych dzięwiętnastowiecznych generacji.
+
+![Stattler, Machabeusze](/assets/stattler-machabeusze.jpg)</description>
+      <pubDate>Tue, 15 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-15T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Między Dobrą a Leszczyńską</title>
       <link>http://amused.github.io/2013/10/dobra-leszczynska.html</link>
@@ -326,6 +337,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-14T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-15T00:00:00+02:00</dc:date>
   </channel>
 </rss>
