@@ -8,7 +8,24 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Tue, 15 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Wed, 16 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Barthes o krytyce</title>
+      <link>http://amused.github.io/2013/10/barthes-krytyka.html</link>
+      <description>Fenomenalny fragment z *Mitologii* Rolanda Barthes'a --- rozdział pod tytułem *Niema i ślepa krytyka* w przekładzie Adama Dziadka.
+
+&gt; Krytycy (literaccy lub teatralni) używają często dwóch dość szczególnych argumentów. Pierwszy polega na ogłoszeniu ni stąd, ni zowąd, że obiekt owej krytyki jest nieuchwytny, a w konsekwencji ona sama okazuje się zbędna. Drugi argument, pojawiający się także co jakiś czas, polega na przyznaniu się do zbytniej głupoty, zbytniej ignorancji uniemożliwiającej zrozumienie dzieła, które uchodzi za filozoficzne: sztuka Henriego Lefebvre'a o Kierkegaardzie wywołała wśród naszych najlepszych krytyków (nie mówię o tych, którzy otwarcie wyznają własną głupotę) tę jakąś paniczną imitację głupstwa (która miała, rzecz jasna, zdyskredytować Lefebvre'a zesłanego do krainy czysto rozumowego cudactwa).
+&gt; 
+&gt; Czemuż więc owa krytyka ogłasza co jakiś czas swą niemoc lub swoje niezrozumienie? Na pewno nie ze skromności: nie ma większej wygody niż przyznanie się do niezrozumienia egzystencjalizmu, nie ma większej ironii, a tym samym większej pewności siebie, niż wstydliwe ujawnienie bezradności wobec filozofii Nadzwyczajności; i nie ma nic bardziej bojowego niż obrona nieuchwytności poezji.
+&gt; 
+&gt; Wszystko to faktycznie oznacza ten stopień pewności własnej inteligencji, wobec którego wyznanie, że się nie rozumie, kwestionuje klarowność autora, a nie własnego umysłu: udaje się głupstwo, aby tym łatwiej wywołać wśród publiczności wrzawę i pyszałkowato obrócić wspólną impotencję we wspólną inteligencję. Znamy dobrze takie postępowanie z salonu Verdurinów: &quot;Ja, który z zawodu jestem inteligentny, nic z tego nie rozumiem; ale wy też nic z tego nie rozumiecie, jesteście więc tak samo inteligentni, jak ja&quot;.
+&gt; 
+&gt; Prawdziwe oblicze tych sezonowych wyznań braku kultury stanowi stary, obskurancki mit, według którego myśl jest szkodliwa, gdy nie podlega kontroli &quot;zdrowego rozsądku&quot; i &quot;uczucia&quot;: Wiedza to Zło, oba wyrosły na tym samym drzewie; kultura jest dozwolona pod warunkiem, że ogłasza się co pewien czas marność jej celów i granice jej potęgi (w tej sprawie warto porównać myśli Grahama Greena o psychologach i psychiatrach); idealna kultura powinna być tylko łagodnym retorycznym popisem, sztuką słowa świadczącą o chwilowej wylewności duszy. Ta stara romantyczna para serca i rozumu nabiera realności jedynie w obrazach o proweniencji jakby z lekka gnostyckiej, w owych opiumowanych filozofiach, które zawsze w końcu udzielały wsparcia silnym reżimom, które pozbywają się intelektualistów, odsyłając ich do zajęć skupionych po trosze wokół emocji i tego, co nieuchwytne. W rzeczywistości wszelkie stawianie kulturze warunków jest stanowiskiem terrorystycznym. Gdy ktoś uprawia zawód krytyka i obwieszcza, że nie rozumie egzystencjalizmu lub marksizmu (bo jak na złość są to właśnie te filozofie, których niezrozumienie wyznawane jest najczęściej), to uznaje własną ślepotę lub niemotę za uniwersalną regułę percepcji i pozbywa się marksizmu i egzystencjalizmu z tego świata: &quot;Nic nie rozumiem, a zatem jesteście idiotami&quot;.
+&gt; 
+&gt; Ale skoro ma się tyle obaw czy tyle wzgardy wobec założeń filozoficznych jakiegoś dzieła i skoro z taką mocą broni się prawa do tego, żeby go nie rozumieć i o nim nie mówić, to po co w ogóle być krytykiem? Przecież rozumienie i objaśnianie to jest wasz zawód. Możecie oczywiście sądzić filozofię w imię zdrowego rozsądku; kłopot w tym, że o ile &quot;zdrowy rozsądek&quot; i &quot;uczucie&quot; nie rozumieją filozofii, o tyle ona sama rozumie je bardzo dobrze. Nie wy objaśniacie filozofów, ale oni was objaśniają. Nie chcecie zrozumieć sztuki marksisty Lefebvre'a, ale bądźcie pewni, że marksista Lefebvre doskonale rozumie wasze niezrozumienie, a zwłaszcza (bo widzę u was raczej przebiegłość niż zaniedbanie) wasze rozkosznie &quot;niewinne&quot; wyznanie.</description>
+      <pubDate>Wed, 16 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-16T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Stattler, «Machabeusze»</title>
       <link>http://amused.github.io/2013/10/stattler-machabeusze.html</link>
@@ -337,6 +354,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-15T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-16T00:00:00+02:00</dc:date>
   </channel>
 </rss>
