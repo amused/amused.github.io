@@ -8,7 +8,20 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Fri, 18 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 19 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Wilkins o lekturze</title>
+      <link>http://amused.github.io/2013/10/wilkins-literatura.html</link>
+      <description>Refleksja nad literaturą Johna Wilkinsa z roku 1641, z dzieła pod tytułem *Merkury albo tajemnica i szybkonogi posłaniec* --- w tłumaczeniu Tomasza Bieronia, cytowane w jednej z książek Umberto Eco. Oryginalną wersję cytatu można [zobaczyć na stronie Biblioteki Kongresu](http://lcweb2.loc.gov/cgi-bin/ampage?collId=rbc3&amp;fileName=rbc0001_2009fabyan19070page.db&amp;recNum=31).
+
+&gt; Jak dziwną rzeczą musiała się wydawać sztuka pisania, kiedy została wynaleziona, możemy ocenić po zachowaniu niedawno odkrytych Amerykanów, którzy zdumieli się, że człowiek może rozmawiać z księgami i nie chcieli uwierzyć, że papier może mówić...
+&gt; 
+&gt; Jest na ten temat piękna anegdota, która opowiada o indiańskim niewolniku. Wysłany przez swego pana z koszykiem fig i listem, zjadł po drodze znaczną część powierzonego mu ładunku, przekazując resztę fig osobie, dla której były przeznaczone. Osoba ta przeczytała list, po czym nie znalazłszy odpowiedniej ilości fig, oskarżyła niewolnika o ich zjedzenie, mówiąc, że list świadczy przeciwko niemu. Lecz Indianin, nie zważając na ten dowód, bez wahania wyparł się swego postępku, przeklinając papier jako fałszywego i kłamliwego świadka.
+&gt; 
+&gt; Wysłany po raz drugi z podobnych ładunkiem i listem wymieniającym dokładną liczbę fig, które miały być doręczone, zwyczajowo już pożarł po drodze znaczną ich część. Jednak nie odważył się tknąć owoców, zanim dla uniknięcia dalszych oskarżeń nie schował listu pod kamień, pewien, że jeżeli list nie będzie go widział jedzącego figi, to na niego nie doniesie. Jednak kiedy został oskarżony jeszcze gwałtowniej niż poprzednio, wyznał swą winę, wyraził podziw dla czarodziejskich mocy papieru i na przyszłość przyrzekł sprawować się rzetelnie, cokolwiek mu się zleci.</description>
+      <pubDate>Sat, 19 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-19T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Sceptycyzm anno domini 1872</title>
       <link>http://amused.github.io/2013/10/sceptycyzm-1872.html</link>
@@ -384,6 +397,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-18T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-19T00:00:00+02:00</dc:date>
   </channel>
 </rss>
