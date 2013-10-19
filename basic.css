@@ -63,11 +63,14 @@ p a {
 p a:hover {
 	color: rgb(167, 98, 75);
 }
-.info, .info a {
+.info {
 	color: rgb(172, 172, 172);
 }
-.info a:hover {
+.info a {
 	color: rgb(132, 155, 156);
+}
+.info a:hover {
+	color: rgb(172, 172, 172);
 }
 blockquote {
 	color: rgb(51, 51, 51);

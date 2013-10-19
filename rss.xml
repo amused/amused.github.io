@@ -8,7 +8,24 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Sat, 19 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 20 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Warszawskie getto w 1948 roku</title>
+      <link>http://amused.github.io/2013/10/warszawskie-getto.html</link>
+      <description>W 1948 David Seymour --- urodzony w 1911 roku w Polsce jako Dawid Szymin --- wyruszył na misję UNICEF po Europie, by fotografować losy dzieci po drugiej wojnie światowej. Poniżej cztery zdjęcia z Warszawy. Gruzy na dwóch pierwszych to wszystko, co zostało z getta.
+
+![David Seymour](/assets/warszawa-getto1.jpg)
+
+![David Seymour](/assets/warszawa-getto3.jpg)
+
+![David Seymour](/assets/warszawa-getto2.jpg)
+
+![David Seymour](/assets/warszawa-getto4.jpg)
+
+Inne zdjęcia autora zobaczyć można na stronie [Time.com](http://lightbox.time.com/2013/01/16/a-second-look-chims-children-of-war/).</description>
+      <pubDate>Sun, 20 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-20T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Wilkins o literaturze</title>
       <link>http://amused.github.io/2013/10/wilkins-literatura.html</link>
@@ -397,6 +414,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-19T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-20T00:00:00+02:00</dc:date>
   </channel>
 </rss>
