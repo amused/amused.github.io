@@ -8,7 +8,32 @@
     <title>Nowe Ateny</title>
     <link>http://amused.github.io</link>
     <description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
-    <pubDate>Sun, 20 Oct 2013 00:00:00 +0200</pubDate>
+    <pubDate>Mon, 21 Oct 2013 00:00:00 +0200</pubDate>
+    <item>
+      <title>Kariera rodziny Demidowów</title>
+      <link>http://amused.github.io/2013/10/demidowowie.html</link>
+      <description>Jak pisze Stanisław Szenic w swojej biografii Marii Kalergis:
+
+&gt; Kariera rodziny Demidowów w carskiej Rosji XVIII wieku
+&gt; żywo przypomina karierę rodziny Krupp w Niemczech XIX
+&gt; wieku. Protoplastami obu rodzin są kowale, którzy podwaliny
+&gt; olbrzymiego majątku oparli na doskonaleniu fabrykacji broni.
+&gt; Nikita Demidow, przedsiębiorczy kowal w Tulę, miał szczęście
+&gt; zwrócić na siebie uwagę cara Piotra Wielkiego. W krótkim
+&gt; czasie rozbudował i znacznie rozszerzył huty żelazne
+&gt; Wierchoturskie, sprzedane mu w 1702 roku na bardzo dogodnych
+&gt; warunkach. Później przy współudziale syna Akinfa założył
+&gt; jeszcze cztery pokaźne huty żelaza na Uralu. Jego wnuk 
+&gt; Prokofiusz był już wielkim panem. Wybudował nakładem 
+&gt; miliona rubli srebrnych sierociniec dla podrzutków w Moskwie,
+&gt; założył szkołę handlową w Petersburgu. Zasłynął nie tylko
+&gt; z filantropii, ale i z dziwactw. Pieniądze z jego skarbca
+&gt; płynęły szeroką, nieprzebraną strugą. Opowiadano, że podczas
+&gt; olbrzymiej zabawy dla ludu, urządzonej przez niego w 1778
+&gt; roku w Petersburgu, aż 500 ludzi miało się zapić na śmierć.</description>
+      <pubDate>Mon, 21 Oct 2013 00:00:00 +0200</pubDate>
+      <dc:date>2013-10-21T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Warszawskie getto w 1948 roku</title>
       <link>http://amused.github.io/2013/10/warszawskie-getto.html</link>
@@ -414,6 +439,6 @@ Mądrym dla memoryjału, idiotom dla nauki.</description>
       <pubDate>Sun, 29 Sep 2013 00:00:00 +0200</pubDate>
       <dc:date>2013-09-29T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2013-10-20T00:00:00+02:00</dc:date>
+    <dc:date>2013-10-21T00:00:00+02:00</dc:date>
   </channel>
 </rss>
