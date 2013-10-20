@@ -81,6 +81,9 @@ img {
 strong {
 	color:  rgb(31, 69, 89);
 }
+#tags a {
+	color:	rgb(31, 69, 89);
+}
 
 /* MARGINS & PADDINGS */
 #main {
@@ -128,4 +131,21 @@ blockquote p {
 img {
 	max-width: 600px;
 	border: 1px solid;
+}
+
+/* TAGS */
+.set-1 {
+	font-size: 16px;
+}
+.set-2 {
+	font-size: 18px;
+}
+.set-3 {
+	font-size: 20px;
+}
+.set-4 {
+	font-size: 22px;
+}
+.set-5 {
+	font-size: 24px;
 }
