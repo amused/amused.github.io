@@ -1,18 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts limit:10 %}
+		<title>Nowe Ateny</title>
+		<description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
+		<link>http://amused.github.io</link>
+		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
+		
 			<item>
-				<title>{{ post.title }}</title>
-				<description>{{ post.content | markdownify }}</description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+				<title>Lubomirski, «Instrukcyja Synom moim»</title>
+				<description><p>W roku 1699 dwaj synowie niedoszłego króla polskiego, wielkiego magnata Stanisława Herakliusza Lubomirskiego wyjechali na peregrynację po Europie; troskliwy ojciec pożegnał ich przydługim nieco, choć doskonale oddającym klimat epoki, listem z zaleceniami, zakazami i nakazami. Przytaczam poniżej z BN-owskiego wydania pism Lubomirskiego.</p><p>Co ciekawe, jeden z rzeczonych synów nie pożył zbyt długo, drugi zaś &#8212; trochę w sprzeczności z patriotycznymi zaleceniami ojca &#8212; własnoręcznie zablokował ważne reformy kraju&#8230;</p><blockquote>
+<p>INSTRUKCYJA SYNOM MOIM [DO] CUDZYCH KRAJÓW ODE MNIE WYPRAWIONYM, TEODOROWI I FRANCISZKOWI LUBOMIRSKI, W JAZDOWIE, D. 29 NOVEMBRIS A. 1699</p>
+
+<p>Ponieważ powinność ojcowska ta jest tego życzyć synom swoim, co nam najdroższego przodkowie nasi zostawili &#8212; to jest: bojaźń Bożą, cnotę, honor i wiadomość w rzeczach do usługi Ojczyzny potrzebną, aby godność domu i familii nie umierała tylko w pierwszych rodzicach, ale równy i jednaki żywot i zacność swoję przez cnoty i chwałę w potomkach swoich zachowała, przeto wyprawując do cudzych krajów synów moich, obowiązuję ich pod błogosławieństwem Boskim i ojcowskim, aby to wszystko w pamięci mieli i skutkiem samym wypełnili, co tu niżej wyrażam.</p>
+
+<p>Naprzód nie tylko <em>exercitia</em> do sposobności ciała i nauki kawalerskie mieć powinni w staraniu, ale też <em>primo loco</em> obserwować, wiedzieć i uczyć się tego, co wielcy królowie narodu, w którym będą, w pomnożeniu chwały Bożej czynią pamięci godnego, jakim trybem i porządkiem pobożnego rządu i sprawiedliwości sposoby zachowują i biorą przed się, aby to do Ojczyzny swojej przynieść, nie swawolne obyczaje abo inne rozkoszy i występki szkodliwe, przez które by tylko skaranie Boskie a hańba familii i wstyd u świata wyniknąć musiał. Naśladować mają ludzi wielkich w postępkach ich i znajomości z niemi i konwersacyje mieć, a nie z płochemi i lichemi, przez które by okazyje do złych nałogów i szpetnych postępków, ale i do niebezpieczeństwa zdrowia i nagany pospolitej mieć mogli.</p>
+
+<p>Dalej też być powinni od zabaw próżnujących, kosterstwa, pijatyki i innych wszelkich występków.</p>
+
+<p>Nauk kawalerskich z pilnością i aplikacyją pilnować mają i od ludzi uczonych przez konwersacyją i naukę nabywać doskonałości, w których jako i w cnocie i bogobojności mają zakładać swoje uciechy, aby się potrzebnemi Ojczyźnie i do rządu, godności, urzędów sposobnemi ukazali i wystawili, których nikt nie może piastować bez doskonałej i gruntownej cnoty.</p>
+
+<p>Historyje o tym narodzie i gubernacyi tego królestwa, w którym będą, i zwyczaje godne wiadomości wiedzieć, co do wielkiego człowieka doskonałości należy.</p>
+
+<p>O punktacyjach też i traktatach różnych i interessach panów postronnych dawnych i świeżych nabyć powinni doskonałej wiadomości, aby potem idyjotami nie byli, ale i z rozsądkiem, i eksperyjencyją Rzplitej sprawy traktować mogli, jeśli chcą do godności aspirować, bo królowie niegodnym dawać jej nie powinni, a i owszem, powinni nie dawać, ani ja takich synów promować nie będę, któremi bym Ojczyznę zarazić miał.</p>
+
+<p>Prezumpcyi i rozumienia o swej brawurze, wzgardą drugich, na których nie prawdziwa reputacyja, ale tylko nieuwaga i pycha funduje się, wystrzegać się mają zawsze, chowając serce i sposobność rycerską za krzywdę Boską i bliźniego, a nie mają głupią i nieuważną dumą, chyba kiedy by tego prawdziwa reputacyja potrzebowała, a rozgniewawszy się na kogo &#8212; wprzód obiecadło wspak zmówić, niżeli się na lekkomyślną zwadę rezolwować.</p>
+
+<p>Nauki i <em>exercitia</em> na dwie części rozdzielam. Pierwsze mają być umysłu, drugie ciała, te ostatnie pierwszemu służyć powinny jako koń jeźdźcowi.</p>
+
+<p><em>Exercitia</em> umysłu mają być te: <em>usus globorum</em>, fundament matematyki, bo aby światem rządzić, trzeba go znać, jeśli okrągły, czy płaski. Potem <em>geographia</em> tak ziemie jako i morza, <em>mathematica in genere et specie</em> wszelka, <em>arithmetica i geometria</em>, która i do rządu domowego, i do wojennego koniecznie potrzebna, <em>mechanica generalis</em> potrzebna do wojennych machin i inwencyi tak artylleryi, jako i innym wojennym potrzebom i mocy struktur i pańskich dzieł służąca. Ewolucyje i sposoby kommenderowania piechotami i jazdą i sprawności do oręża, reguły wojenne szyków, Marsów, obozów prowiantowania i innego do tego porządku uczyć się powinni. Przy geografii zaś historyje królestw i rządów świata, jako się wzwyż namieniło, nauczyć się mają. Autorów rzadkich w każdych professyjach przebiec przynajmniej i z historyją Pisma św. wszędy ją traktować mogą i czytanie mieć w osobliwym zaleceniu, pomniąc na chwałę Juliusza, Cesarza wielkiego, który płynąc w zbroi przez rzekę &#8212; jedną ręką miecz, drugą książkę Homera, aby mu była nie utonęła, w zanadrze schował. Fortyfikacyje też i <em>architecturam civilem</em> doskonale umieć powinni i wszystkie inne ozdoby umysłu ludzkiego, aby nie tylko ciałem &#8212; jako bydlęta &#8212; ale rozumem i naukami &#8212; jako ludzie &#8212; zdolni byli.</p>
+
+<p><em>Exercitia</em> zaś: ćwiczenie koni i jeżdżenie na nich, monstrowanie i zażywanie oręża wszelakiego, fechtowanie, woltyżowanie i wszelkie inne sposobności ciała, których w akademii kawalerskiej uczą. Na to rozłożone mają być godziny, tańcowanie zaś za rekreacyją tylko po obiedzie. A jeżeli ochota do grania na czym &#8212; to ukradkiem wolnego czasu, aby wszystko umieć, nie zawadzi. Na dworze zaś królewskim kiedy się schadzają kawalerowie, abo wolny przystęp w święta i potrzebne okazyje &#8212; bywać i tam żadnych lekkości nie czynić ani mówić, ale łatwością z ludźmi i powagą pozyskiwać sobie ludzką miłość i estymacyją u każdego. Toż i między damami rozumieć się ma; wszędy ani zbytnim gadaniem ciceronem, ani zbytnim milczeniem stoikiem ludziom się stawiać.</p>
+
+<p>Rezydencyja ma być w akademii kawalerskiej, najsposobniejszej do nauki, z honorem jednak i wygodą poki w Paryżu mięszkać będą, kędy najmniej pułtora [!] lata chciałbym żeby się zabawili. O czym potym przez poszty dam znać, kędy się dalej obrócić będą mieli. Języków francuskiego, włoskiego, hiszpańskiego i niemieckiego aby się według rezydencyi w krajach doskonale uczyli &#8212; zalecam.</p>
+
+<p>Stąd najprzód pojadą do Wiednia, aby najpierwszy pokłon i weneracyją oddali ode mnie i od siebie Cesarzowi, JMci, któremu od domu mego ku majestatowi Jego Ces. Mci z dawna zawziętych. Tamże i Najjaśniejszemu Królowi JMCi Rzymskiemu toż wyświadczą i całemu Domowi Rakuskiemu.</p>
+
+<p>Tam krótko zabawiwszy, obrócą się prosto <em>per Imperium</em> do Francyi, a nie zawadzi wyboczyć na Hollandyją, aby ją teraz widzieć, bo z Francyi przeciwne by były drogi i odległę od siebie. Do Hollandyi i do Włoch jachać wolno i osobno, a przecię Hollandyi opuścić nie godzi się. Potym nic się nie bawiąc tylko &#8212; obaczywszy kraj i porządek jego &#8212; jak najspieszniej stanąć w Paryżu, aby czasem do nauk nie omięszkali, którego nie trawiąc, zarazem zaczną nauki kawalerskie w akademii którejkolwiek najlepszej i onych &#8212; jakom zwyż namienił i zalecił &#8212; pilnować będą. A cokolwiek im czasu znidzie, na bytności u dworu, na konwersacyją ludzi zacnych obrócą i widzenia miejsc i rzeczy godnych.</p>
+
+<p>Do tego wszystkiego przydaję im za dyrektora JMCi księdza Bernica, kanonika katedralnego lwowskiego, nie tylko jako osobliwego przyjaciela domu mego, ale też jako człowieka <em>multis professionibus</em> godnego i umiejętnego, którego rady i manudukcyi słuchać i onego szanować powinni będą. A jeżeliby w czym do dobrego przestrzegał, to wdzięcznie przymować ani się na niego urażać, to jako lekkomyślna młódź, o to nie mają, ale owszem, poufale z nim o wszystkim znosić się, jako z tym, który z ramienia mego i na miejscu moim przy nich zostawać będzie. Wydatków też od niego niepotrzebnych nie potrzebować ani zaciągać mają. Sami zaś między sobą zgodę i jednę wolą i miłość braterską mieć powinni, aby zgorszeniem i pośmiewiskiem u ludzi nie byli, ale zarówno w cnotach i reputacyi spólnej miłością wzajemną stwierdzeni &#8212; domowi honor i powagę, i potrzebną o sobie estymacyją u ludzi zjednali. Co wszystko niech zachowują, jeżeli Boskie i moje błogosławieństwo mieć chcą i dalszą moję miłość ku sobie i do ojczystych godności wstęp i drogę. Na tę zaś peregrynacyją, abyście ją jako najszczęśliwiej odprawili, daję ojcowskie moje błogosławieństwo, pragnąc, abyście mi często o zdrowiu swoim wiadomość dawali. Którą to ordynacyją ręką moją własną podpisuję przy pieczęci mojej.</p>
+</blockquote></description>
+				<pubDate>Fri, 25 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/lubomirski-listsynom.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/lubomirski-listsynom.html</guid>
 			</item>
-		{% endfor %}
+		
+			<item>
+				<title>Mickiewicz prozaiczny</title>
+				<description><p>Chyba jedna z najwyżej brwi podnoszących kart polskiego romantyzmu &#8212; przytoczona przez Boya anegdota ze <em>Wspomnień</em> Michała Budzyńskiego. O którego dokładnie pułkownika chodzi, ustalić się nie udało.</p><blockquote>
+<p>Pułkownik Kamiński dziwne miewał halucynacje, które sprowadzał natchnieniem umysłu swego pobożnymi pieśniami. Miał zwyczaj, a raczej postanowił był sobie dwie godziny dnia każdego wyśpiewywać psalmy Dawida, każąc żonie towarzyszyć sobie na fortepianie. Wyobraził sobie, że wprzód nim był pułkownikiem Kamińskim, przepędził jedno życie na oborze i spełniał funkcje krowy. Toteż głos jego był tak ryczący, że żona wzbraniała się towarzyszyć mu fortepianem. Mąż sprowadził Mickiewicza, a mistrz powagą swoją wręczył Kamińskiemu laskę grubą, mówiąc: &#8220;Daję ci moc nieposłuszną żonę do uległości tym kijem przyprowadzić&#8221;. Były płacze w domu i aż krewny żony, p. Jakub Malinowski, musiał łagodnie pomiarkowywać męża&#8230;</p>
+</blockquote></description>
+				<pubDate>Thu, 24 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/mickiewicz-prozaiczny.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/mickiewicz-prozaiczny.html</guid>
+			</item>
+		
+			<item>
+				<title>Bezmyśl, fiksum i samobójstwo</title>
+				<description><p>Jeszcze trochę wesołych myśli z anonimowo wydanych <em>Pamiętników sceptyka</em> Juliana Kaliszewskiego:</p><blockquote>
+<p>E!&#8230; znowu mnie zniechęcenie owłada&#8230; Smutne życie człowieka&#8230; Jeżeliś raz w fatalnej chwili swojego żywota wybiegł ponad powszednie, szczęśliwe swoją ślepotą zapatrywanie i pojmowanie tego, co jest, na zawsześ już nieszczęśliwy! Spokojność i wesele umyka już bezpowrotnie, o! gdybyś i ty wtedy tak umknąć zdołał od smutku, goryczy życia i nudy piekielnej, które cię z wolna coraz ciaśniejszem kołem okrążać będą!&#8230; Ziemia stanie ci za więzienie, a co więcej, doznasz chwil, w których będziesz sądził, że samobójstwo wyrwie cię na koniec z paszczy twojego zniechęcenia&#8230; To, co osładza godziny życia ludzkiego, tobie się wyda zbyt słabem, aby choć na jedną minutę twoje cierpienia zdolne było złagodzić. Rozkosz cielesna, jeżeli wiek twój dla niej już minął, na samo wspomnienie całą, niewysłowioną goryczą poić cię będzie; jeżeliś młody, to stanie ci ona za moralny grób twój.</p>
+
+<p>Wiedząc, żeś niezdolny rozwiązać tego, coś pragnął, pożądał całem życiem swojem, w rozpaczy rzucić się będziesz próbował w otchłań zapomnienia &#8212; w cielesną kałużę żądz&#8230; I znowu wrócisz tam, skądżeś wybrnął, skądżeś chciał uciec ofiarą całęj potęgi myśli swojej &#8212; wrócisz, tylko dwakroć podlejszy niż wtedy, kiedyś bezwiednie jeszcze pełzał w błocie swoich namiętności&#8230; Smutne życie człowieka! &#8212; jest to zaczarowane koło złudzeń i zachceń nieurzeczywistnionych, niestety! nigdy. Jedna tylko ucieczka i jedno zbawienie w objęciu trojga: <em>bezmyśl</em>, <em>fiksum</em> i <em>samobójstwo</em>!&#8230;</p>
+
+<p>Ha! ha! ha! wesołe życie człowieka!&#8230;</p>
+</blockquote></description>
+				<pubDate>Wed, 23 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/bezmysl-fiksum-samobojstwo.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/bezmysl-fiksum-samobojstwo.html</guid>
+			</item>
+		
+			<item>
+				<title>Kobiety z cygarami</title>
+				<description><p>Wśród różnych gier salonowych XIX-wiecznej Warszawy Paulina Wilkońska w swoich wspomnieniach opisała &#8220;pytania i odpowiedzi&#8221;: gospodyni rozdawała swoim gościom pytania, a po tygodniu &#8212; odbierała mniej lub bardziej dowcipne odpowiedzi (zazwyczaj wierszem).</p><blockquote>
+<p>Do czego lub kogo przyrównano by w zeszłym stuleciu [tj. XVIII] kobietę palącą cygaro?</p>
+</blockquote><p>Odpowiedź pisarza Ludwika Niemojowskiego:</p><blockquote>
+<p>Nie wiem, jakie by pradziad zrobił porównanie.<br />Lecz zawsze niepochlebne dałby pewnie zdanie. <br />Nasi bowiem ojcowie płeć piękną widzieli <br />Stworzoną do niańczenia albo do kądzieli.</p>
+
+<p>Poświęcenie od kobiet jak należność brali <br />I sami używając &#8212; im użyć nie dali. <br />Dzisiaj dzielim z kobietą złe, dobre przygody &#8212; <br />I szczęście, i nieszczęście, i żal, i swobody.</p>
+
+<p>Czy wzbronimy im użyć niewinnej rozkoszy, <br />Która myśli rozjaśnia, smutek z czoła spłoszy? <br />Wielu temu przygania &#8212; mnie się jednak zdaje, <br />Że nam to nie zaszkodzi &#8212; im wdzięku dodaje.</p>
+</blockquote><p>Czy nie szkodzi, nie byłbym taki pewien &#8212; ale mniejsza o to. Aleksander Kraushar zanotował w książce <em>Polki twórcze czasów nowszych</em> takie wspomnienie poświęcone Marii Ilnickiej i Deotymie:</p><blockquote>
+<p>Tam, na trzecim piętrze, w schludnym saloniku, odbywały się sympatyczne wtorki pani Marii, według ustalonego programu przyjęcia, złożonego ze szklanki herbaty i &#8220;rogalików&#8221;. Około pani domu usadowionej na kanapce grupowało się grono bywalców, z rezygnacją powstrzymując się od palenia papierosów, których Ilnicka nie znosiła, nie ze względu na ich szkodliwość dla zdrowia, ile ze względiu na ich proweniencję od Moskali, którzy ów nałóg u nas rozpowszechnili. Leżało to niemal w naturze Ilnickiej, iż ze wstrętem unikała zawsze wszystkiego, co mogło mieć jakikolwiek bliższy lub dalszy związek z nienawistną &#8220;Moskwą&#8221;. Jeśli więc ktoś z jej gości sybiraków nie mógł mimo najlepszej woli oprzeć się nawykowi &#8220;zaciągnięcia się&#8221;, ten chyłkiem opuszczał salonik i szukał w kuchence miejsca do wypalenia choćby kawałka papierosa&#8230;</p>
+
+<p>Takiemu rygorowi, jak wiadomo, nie podlegali bywalcy salonu Deotymy, która, sama amatorka palenia, pozwalała swoim gościom po poczęstunku &#8220;lawą&#8221; (gorąca słodzona woda z arakiem) raczyś się dymem papierosów podczas słuchania fragmentów <em>Sobieskiego pod Wiedniem</em>.</p>
+</blockquote></description>
+				<pubDate>Tue, 22 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/tyton.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/tyton.html</guid>
+			</item>
+		
+			<item>
+				<title>Kariera rodziny Demidowów</title>
+				<description><p>Jak pisze Stanisław Szenic w swojej biografii Marii Kalergis:</p><blockquote>
+<p>Kariera rodziny Demidowów w carskiej Rosji XVIII wieku żywo przypomina karierę rodziny Krupp w Niemczech XIX wieku. Protoplastami obu rodzin są kowale, którzy podwaliny olbrzymiego majątku oparli na doskonaleniu fabrykacji broni. Nikita Demidow, przedsiębiorczy kowal w Tulę, miał szczęście zwrócić na siebie uwagę cara Piotra Wielkiego. W krótkim czasie rozbudował i znacznie rozszerzył huty żelazne Wierchoturskie, sprzedane mu w 1702 roku na bardzo dogodnych warunkach. Później przy współudziale syna Akinfa założył jeszcze cztery pokaźne huty żelaza na Uralu. Jego wnuk Prokofiusz był już wielkim panem. Wybudował nakładem miliona rubli srebrnych sierociniec dla podrzutków w Moskwie, założył szkołę handlową w Petersburgu. Zasłynął nie tylko z filantropii, ale i z dziwactw. Pieniądze z jego skarbca płynęły szeroką, nieprzebraną strugą. Opowiadano, że podczas olbrzymiej zabawy dla ludu, urządzonej przez niego w 1778 roku w Petersburgu, aż 500 ludzi miało się zapić na śmierć.</p>
+</blockquote></description>
+				<pubDate>Mon, 21 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/demidowowie.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/demidowowie.html</guid>
+			</item>
+		
+			<item>
+				<title>Warszawskie getto w 1948 roku</title>
+				<description><p>W 1948 David Seymour &#8212; urodzony w 1911 roku w Polsce jako Dawid Szymin &#8212; wyruszył na misję UNICEF po Europie, by fotografować losy dzieci po drugiej wojnie światowej. Poniżej cztery zdjęcia z Warszawy. Gruzy na dwóch pierwszych to wszystko, co zostało z getta.</p><p><img alt='David Seymour' src='/assets/warszawa-getto1.jpg' /></p><p><img alt='David Seymour' src='/assets/warszawa-getto3.jpg' /></p><p><img alt='David Seymour' src='/assets/warszawa-getto2.jpg' /></p><p><img alt='David Seymour' src='/assets/warszawa-getto4.jpg' /></p><p>Inne zdjęcia autora zobaczyć można na stronie <a href='http://lightbox.time.com/2013/01/16/a-second-look-chims-children-of-war/'>Time.com</a>.</p></description>
+				<pubDate>Sun, 20 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/warszawskie-getto.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/warszawskie-getto.html</guid>
+			</item>
+		
+			<item>
+				<title>Wilkins o literaturze</title>
+				<description><p>Refleksja nad literaturą Johna Wilkinsa z roku 1641, z dzieła pod tytułem <em>Merkury albo tajemnica i szybkonogi posłaniec</em> &#8212; w tłumaczeniu Tomasza Bieronia, cytowane w jednej z książek Umberto Eco. Oryginalną wersję cytatu można <a href='http://lcweb2.loc.gov/cgi-bin/ampage?collId=rbc3&amp;fileName=rbc0001_2009fabyan19070page.db&amp;recNum=31'>zobaczyć na stronie Biblioteki Kongresu</a>.</p><blockquote>
+<p>Jak dziwną rzeczą musiała się wydawać sztuka pisania, kiedy została wynaleziona, możemy ocenić po zachowaniu niedawno odkrytych Amerykanów, którzy zdumieli się, że człowiek może rozmawiać z księgami i nie chcieli uwierzyć, że papier może mówić&#8230;</p>
+
+<p>Jest na ten temat piękna anegdota, która opowiada o indiańskim niewolniku. Wysłany przez swego pana z koszykiem fig i listem, zjadł po drodze znaczną część powierzonego mu ładunku, przekazując resztę fig osobie, dla której były przeznaczone. Osoba ta przeczytała list, po czym nie znalazłszy odpowiedniej ilości fig, oskarżyła niewolnika o ich zjedzenie, mówiąc, że list świadczy przeciwko niemu. Lecz Indianin, nie zważając na ten dowód, bez wahania wyparł się swego postępku, przeklinając papier jako fałszywego i kłamliwego świadka.</p>
+
+<p>Wysłany po raz drugi z podobnych ładunkiem i listem wymieniającym dokładną liczbę fig, które miały być doręczone, zwyczajowo już pożarł po drodze znaczną ich część. Jednak nie odważył się tknąć owoców, zanim dla uniknięcia dalszych oskarżeń nie schował listu pod kamień, pewien, że jeżeli list nie będzie go widział jedzącego figi, to na niego nie doniesie. Jednak kiedy został oskarżony jeszcze gwałtowniej niż poprzednio, wyznał swą winę, wyraził podziw dla czarodziejskich mocy papieru i na przyszłość przyrzekł sprawować się rzetelnie, cokolwiek mu się zleci.</p>
+</blockquote></description>
+				<pubDate>Sat, 19 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/wilkins-literatura.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/wilkins-literatura.html</guid>
+			</item>
+		
+			<item>
+				<title>Sceptycyzm anno domini 1872</title>
+				<description><p>Z wydanych anonimowo w 1872 roku <em>Pamiętników sceptyka</em> Juliana Kaliszewskiego &#8212; godny zapamiętania cytat:</p><blockquote>
+<p>Biedni ludzie!&#8230; W rozpaczy po niefortunnych wycieczkach na mądrość i wielkość jak mogą, tak się pocieszają. Przynajmniej życie przepędźmy wesoło! &#8212; wołają i nuże to w bitwy i wojny, kiedy już się znudzili siedzieć w domu spokojnie; to w wiedzę i uczoność, kiedy im się sprzykrzyło nic nie robić; to w odkrycia ziem nowych, kiedy już nic ze swoich gniazd wycisnąć więcej nie mogą. Bawią się do upadłego aby dalej, aby zapomnieć o wiszącym nad nimi mieczu Damoklesa pod postacią śmierci i nicości. A gdy już wszelkie pomysły co do ziemi zostały wyczerpane, dalejże z fantazją o niebie gwiaździstem, nuż o koncept, czyby i tam dostać się nie można?&#8230; To im się jakoś nie udaje, ależ trudno znów przyznać człowiekowi, że mu się coś nie powiodło. Po rozum tedy do głowy i&#8230; i w miejsce cielesnej wędrówki po nieskończoności, wymarzył sobie duchową &#8212; nieśmiertelność po śmierci!!! To go najwięcej zabawiło, to mu się najlepiej podobało, z natury przepada za kontrastem. Nuż tedy tworzyć sobie cały świat za grobem, podobny temu, w którym żyje, ale w nieskończonem spotęgowaniu, a tak nieskończonem, że sam tego pojąć nie zdolny, i to go właśnie zachwyca i dziwuje się własnemu dowcipowi i powiada sobie, że jest dla tego wielki i nieśmiertelny, że ma <em>pojęcia niepojęte</em>&#8230; <em>risum teneatis?</em>&#8230;</p>
+
+<p>Rozradowany do żywego tym swoim wynalazkiem, dalejże się cieszyć a cieszyć tak, że gotów na wszystko już się poświęcić, na śmierć nawet, bo tam, oh! bo tam jest cóś, co mu za wszystko kiedyś wynagrodzi; tam, według jednych, sama jasność i harmonia i duchowość taka, że &#8212; aż jej nie ma; tam, według drugich, wszystko tak jak tu, ale wszystko dobre, nieskończenie lepsze, doskonalesze, obfitsze, smaczniejsze i wszystkie <em>-sze</em> jakie tylko są; tam, według innych jeszcze, sama tylko rozkosz przez całe niepojętej światłości i piękności siedm nieb, wpośród najcudowniejszej muzyki, jakiej tu ucho nie słyszało, wpośród samych przedziwnych cherubinów i huryssek, gdzie naturalnie szóste przykazanie już wcale nie istnieje&#8230;</p>
+
+<p>I otóż marzą, marzą, a podczas tego marzenia pozwalają ze sobą wszystko robić, nawet rżnąć się na kawałki, gdyby to się komu podobało, jak bywały przypadki. To ich najmilsza rozkosz, a gdy zaczynają troski i choroby ścigać, do niej się uciekają, w niej toną &#8212; rozszczęśliwieni!&#8230;</p>
+
+<p>Biedni wy ludzie!</p>
+</blockquote></description>
+				<pubDate>Fri, 18 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/sceptycyzm-1872.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/sceptycyzm-1872.html</guid>
+			</item>
+		
+			<item>
+				<title>Ślub Micheleta</title>
+				<description><p>Z Jerzego Wojciecha Borejszy biografii Armanda Lévy&#8217;ego pod tytułem <em>Sekretarz Adama Mickiewicza</em>:</p><blockquote>
+<p>12 marca 1849 roku Michelet żeni się powtórnie. Bliscy &#8212; córka i zięć, Lévy i inni &#8212; nie bez niepokoju idą na tę ceremonię. Po dziesięciu latach wdowieństwa wielki historyk uwikłał się w mocno ekscentryczną przygodę, utrzymaną co prawda w stylu epoki.</p>
+
+<blockquote>
+<p>Panna Mialaret, nauczycielka w Wiedniu, zasypywała Micheleta patetycznymi listami; zapragnął znaleźć męża dla uwielbiającej go dziewczyny, która utrzymywała, że zawdzięcza wszystko jego dziełom. Wybór padł na Eugeniusza Noëla. Michelet z największym entuzjazmem czytał mu listy panny Mialaret i namawiał do szczęścia, które samo idzie do ręki. Ale listy te nie zachwyciły Eugeniusza Noëla. Uważał je za deklamatorskie. Gorąco podziękował Micheletowi, oznajmiając, że dobrze mu ze starą matką i boi się dać jej synowę. Wymowna pani Mialaret nie mogła wzruszyć Noëla, ale za to podbiła Micheleta, który zamiast popierać przyjaciela, sam wszedł w szranki.</p>
+</blockquote>
+
+<p>Świadkami na ślubie byli Béranger i Mickiewicz. Mickiewicz najpierw omal się nie spóźnił na uroczystość. Przybył w ostatniej chwili, w pośpiechu, w nie swoim ubraniu. Później w merostwie zagadał się z Bérangerem i na pytanie urzędnika municypalnego o wiek podał dwanaście &#8212; numer domu, z którego niedawno się wyprowadził. Widząc zdumioną twarz urzędnika poprawił się, podając czterdzieści dwa &#8212; numer swego nowego mieszkania. Wreszcie ustalono, że świadek Micheleta ma lat pięćdziesiąt.</p>
+
+<p>Mickiewicz miał powody, aby być zaaferowanym w czasie ślubu przyjaciela. Trzy dni później jako redaktor naczelny rozpoczął wydawanie &#8220;Trybuny Ludów&#8221;. Dziennikowi temu zawdzięczał Mickiewicz miano socjalisty.</p>
+</blockquote></description>
+				<pubDate>Thu, 17 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/slub-micheleta.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/slub-micheleta.html</guid>
+			</item>
+		
+			<item>
+				<title>Barthes o krytyce</title>
+				<description><p>Fenomenalny fragment z <em>Mitologii</em> Rolanda Barthes&#8217;a &#8212; rozdział pod tytułem <em>Niema i ślepa krytyka</em> w przekładzie Adama Dziadka.</p><blockquote>
+<p>Krytycy (literaccy lub teatralni) używają często dwóch dość szczególnych argumentów. Pierwszy polega na ogłoszeniu ni stąd, ni zowąd, że obiekt owej krytyki jest nieuchwytny, a w konsekwencji ona sama okazuje się zbędna. Drugi argument, pojawiający się także co jakiś czas, polega na przyznaniu się do zbytniej głupoty, zbytniej ignorancji uniemożliwiającej zrozumienie dzieła, które uchodzi za filozoficzne: sztuka Henriego Lefebvre&#8217;a o Kierkegaardzie wywołała wśród naszych najlepszych krytyków (nie mówię o tych, którzy otwarcie wyznają własną głupotę) tę jakąś paniczną imitację głupstwa (która miała, rzecz jasna, zdyskredytować Lefebvre&#8217;a zesłanego do krainy czysto rozumowego cudactwa).</p>
+
+<p>Czemuż więc owa krytyka ogłasza co jakiś czas swą niemoc lub swoje niezrozumienie? Na pewno nie ze skromności: nie ma większej wygody niż przyznanie się do niezrozumienia egzystencjalizmu, nie ma większej ironii, a tym samym większej pewności siebie, niż wstydliwe ujawnienie bezradności wobec filozofii Nadzwyczajności; i nie ma nic bardziej bojowego niż obrona nieuchwytności poezji.</p>
+
+<p>Wszystko to faktycznie oznacza ten stopień pewności własnej inteligencji, wobec którego wyznanie, że się nie rozumie, kwestionuje klarowność autora, a nie własnego umysłu: udaje się głupstwo, aby tym łatwiej wywołać wśród publiczności wrzawę i pyszałkowato obrócić wspólną impotencję we wspólną inteligencję. Znamy dobrze takie postępowanie z salonu Verdurinów: &#8220;Ja, który z zawodu jestem inteligentny, nic z tego nie rozumiem; ale wy też nic z tego nie rozumiecie, jesteście więc tak samo inteligentni, jak ja&#8221;.</p>
+
+<p>Prawdziwe oblicze tych sezonowych wyznań braku kultury stanowi stary, obskurancki mit, według którego myśl jest szkodliwa, gdy nie podlega kontroli &#8220;zdrowego rozsądku&#8221; i &#8220;uczucia&#8221;: Wiedza to Zło, oba wyrosły na tym samym drzewie; kultura jest dozwolona pod warunkiem, że ogłasza się co pewien czas marność jej celów i granice jej potęgi (w tej sprawie warto porównać myśli Grahama Greena o psychologach i psychiatrach); idealna kultura powinna być tylko łagodnym retorycznym popisem, sztuką słowa świadczącą o chwilowej wylewności duszy. Ta stara romantyczna para serca i rozumu nabiera realności jedynie w obrazach o proweniencji jakby z lekka gnostyckiej, w owych opiumowanych filozofiach, które zawsze w końcu udzielały wsparcia silnym reżimom, które pozbywają się intelektualistów, odsyłając ich do zajęć skupionych po trosze wokół emocji i tego, co nieuchwytne. W rzeczywistości wszelkie stawianie kulturze warunków jest stanowiskiem terrorystycznym. Gdy ktoś uprawia zawód krytyka i obwieszcza, że nie rozumie egzystencjalizmu lub marksizmu (bo jak na złość są to właśnie te filozofie, których niezrozumienie wyznawane jest najczęściej), to uznaje własną ślepotę lub niemotę za uniwersalną regułę percepcji i pozbywa się marksizmu i egzystencjalizmu z tego świata: &#8220;Nic nie rozumiem, a zatem jesteście idiotami&#8221;.</p>
+
+<p>Ale skoro ma się tyle obaw czy tyle wzgardy wobec założeń filozoficznych jakiegoś dzieła i skoro z taką mocą broni się prawa do tego, żeby go nie rozumieć i o nim nie mówić, to po co w ogóle być krytykiem? Przecież rozumienie i objaśnianie to jest wasz zawód. Możecie oczywiście sądzić filozofię w imię zdrowego rozsądku; kłopot w tym, że o ile &#8220;zdrowy rozsądek&#8221; i &#8220;uczucie&#8221; nie rozumieją filozofii, o tyle ona sama rozumie je bardzo dobrze. Nie wy objaśniacie filozofów, ale oni was objaśniają. Nie chcecie zrozumieć sztuki marksisty Lefebvre&#8217;a, ale bądźcie pewni, że marksista Lefebvre doskonale rozumie wasze niezrozumienie, a zwłaszcza (bo widzę u was raczej przebiegłość niż zaniedbanie) wasze rozkosznie &#8220;niewinne&#8221; wyznanie.</p>
+</blockquote></description>
+				<pubDate>Wed, 16 Oct 2013 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2013/10/barthes-krytyka.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/barthes-krytyka.html</guid>
+			</item>
+		
 	</channel>
 </rss>
