@@ -7,9 +7,17 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Romans Munia</title>
+				<description>&lt;p&gt;Z nieco prześmiewczej wobec nurtów Młodej Polski, a wesołej i pogodnej w swej istocie powieści Michała Bałuckiego pod tytułem &lt;em&gt;Pamiętnik Munia&lt;/em&gt; z 1900 roku:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Ja sam, jakkolwiek byłem jej siostrzeńcem, zapomniałem zupełnie o różnicy lat, o tym, że mi była ciocią, a widziałem w niej tylko piękną kobietę, w całej pełni rozwiniętych wdzięków, które drażniły młodzieńczą fantazję, nieoswojoną jeszcze z bliskim towarzystwem kobiet, wywoływały przyspieszenie tętna, szczególniej, gdy ciocia tytułem pokrewieństwa, jakie nas łączyło, zachowywała się względem mnie z całą swobodą i poufałością.&lt;/p&gt; &lt;p&gt;Gdyśmy np. wspólne czasem przy lampie oglądali pisma ilustrowane, ona wtedy dla lepszego przypatrzenia się rysunkom opierała się bez ceremonii całym ciężarem swoich niezasznurowanych wdzięków na moich plecach, pochylona ku mnie tak blisko, że ciepły oddech rozgrzewał...</description>
+				<pubDate>Wed, 30 Oct 2013 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2013/10/balucki-romansmunia.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/10/balucki-romansmunia.html</guid>
+			</item>
+		
+			<item>
 				<title>Lingwistyka po Wieży Babel</title>
 				<description>&lt;p&gt;Z rozprawy naukowej (!) pod tytułem &lt;em&gt;Harmonia mów, albo zlanie ich w jedną, to jest: polską, za pośrednictwem fenickiej, powróconej do familii mów słowiańskich&lt;/em&gt; zapomnianego już dzisiaj bibliografa, Adama Jochera (rycina &amp;#8212; Gustave Doré, &lt;em&gt;Pomieszanie języków&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Jedna była mowa niegdyś nadana całemu rodzajowi ludzkiemu na początku stworzenia i rzeczy wszelkich: ecce unus est populus et unum labium omnibus. &lt;em&gt;Genes.XI.6&lt;/em&gt; [&lt;em&gt;oto jeden jest lud, i jeden język wszystkim&lt;/em&gt; (Biblia Wujka)]. Mowa ta, nie będąc dziełem zaledwo stworzonego i nieumniejętnego człowieka, ale dziełem, tchnieniem samego Boga, nie było żadnej przyczyny, aby od miejsca inna, od ludzi do ludzi, niezrozumiana była. Mowa ta, którą zowiemy względnie innych mów, &lt;em&gt;Mową Pierwotną&lt;/em&gt;, była od razu pełną, wielką, w formy nadzwyczaj bogatą i zamożną, była przewidzianą...</description>
-				<pubDate>Mon, 28 Oct 2013 00:00:00 +0100</pubDate>
+				<pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/10/wiezababel.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/10/wiezababel.html</guid>
 			</item>
@@ -76,14 +84,6 @@
 				<pubDate>Mon, 21 Oct 2013 00:00:00 +0200</pubDate>
 				<link>http://amused.github.io/2013/10/demidowowie.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/10/demidowowie.html</guid>
-			</item>
-		
-			<item>
-				<title>Warszawskie getto w 1948 roku</title>
-				<description>&lt;p&gt;W 1948 David Seymour &amp;#8212; urodzony w 1911 roku w Polsce jako Dawid Szymin &amp;#8212; wyruszył na misję UNICEF po Europie, by fotografować losy dzieci po drugiej wojnie światowej. Poniżej cztery zdjęcia z Warszawy. Gruzy na dwóch pierwszych to wszystko, co zostało z getta.&lt;/p&gt;&lt;p&gt;&lt;img alt='David Seymour' src='/assets/warszawa-getto1.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='David Seymour' src='/assets/warszawa-getto3.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='David Seymour' src='/assets/warszawa-getto2.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='David Seymour' src='/assets/warszawa-getto4.jpg' /&gt;&lt;/p&gt;&lt;p&gt;Inne zdjęcia autora zobaczyć można na stronie &lt;a href='http://lightbox.time.com/2013/01/16/a-second-look-chims-children-of-war/'&gt;Time.com&lt;/a&gt;.&lt;/p&gt;</description>
-				<pubDate>Sun, 20 Oct 2013 00:00:00 +0200</pubDate>
-				<link>http://amused.github.io/2013/10/warszawskie-getto.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/10/warszawskie-getto.html</guid>
 			</item>
 		
 	</channel>
