@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Rzecz o pojedynkach</title>
+				<description>&lt;p&gt;Z Józefa Bachórza &lt;em&gt;Spotkań z &amp;#8220;Lalką&amp;#8221;&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;W uniwersytetach niemieckich tego okresu istniał rodzaj studenckiej mody pojedynkowej, trwożącej władze akademickie i gorszącej postronnych obserwatorów (sarkastyczną satyrę przeciwko manii burszowskich zwad honorowych napisał Heinrich Heine). Większość tych scysji z bronią w ręku kończyła się zadraśnięciami lub lekkimi ranami, kurowanymi na libacjach, ale nie brakowało i dramatów. Uczestnikiem jednego z nich był Józef Bohdan Dziekoński, który jako dwudziestojednoletni student Uniwersytetu w Królewcu zabił w pojedynku kolegę. Uciekł przed karą z Prus, ale ten&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;smutny nadzwyczaj wypadek [&amp;#8230;] całą zmącił mu przyszłość. I gdy go to ukłuło, zakrwawiło go wspomnienie, cierpiał głęboko, dotkliwie, uciekał od ludzi i całkiem dla znajomych na kilka dni znikał. Mówiono, że w samotności szuka odurzenia myśli i pamięci.&lt;/p&gt;...</description>
+				<pubDate>Sat, 09 Nov 2013 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2013/11/pojedynki.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/11/pojedynki.html</guid>
+			</item>
+		
+			<item>
 				<title>Orzeszkowa, «Dnie»</title>
 				<description>&lt;p&gt;W 1957 roku Edmund Jankowski natrafił w Wilnie intymny dziennik Elizy Orzeszkowej. Pisany niemożliwymi prawie do odczytania skrótami odcyfrowany został i opublikowany dopiero w 2001 roku przez Iwonę Wiśniewską.&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Dz. c. Ojcze! t. od s. w op. i w obr. t. rz. k. spr. br. natch!&lt;/p&gt; &lt;/blockquote&gt;&lt;p&gt;&amp;#8212; Tak wyglądał na przykład dziennikowy wpis Orzeszkowej z 1 maja 1898 roku. A odczytanie:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Dzięki ci, Ojcze! Tobie oddaję się w opiekę i obronę, Ty rządź, kieruj sprawami, broń, natchnij!&lt;/p&gt; &lt;/blockquote&gt;&lt;p&gt;Pisarka prowadziła dziennik przez 7 lat (1898-1904). Zawarła w nim najintymniejsze szczegóły swojego życia, między innymi miłość do młodszego o ponad dwadzieścia lat Feliksa Godlewskiego i nieco o swoim nawróceniu. Poniżej zdjęcie Orzeszkowej z 1904 roku i kilka dziennikowych wpisów.&lt;/p&gt;&lt;p&gt;&lt;img alt='Orzeszkowa' src='/assets/elizaorzeszkowa.png' /&gt;&lt;/p&gt;&lt;blockquote&gt;...</description>
 				<pubDate>Fri, 08 Nov 2013 00:00:00 +0100</pubDate>
@@ -80,14 +88,6 @@
 				<pubDate>Thu, 31 Oct 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/10/smierc-nervala.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/10/smierc-nervala.html</guid>
-			</item>
-		
-			<item>
-				<title>Romans Munia</title>
-				<description>&lt;p&gt;Z nieco prześmiewczej wobec nurtów Młodej Polski, a wesołej i pogodnej w swej istocie powieści Michała Bałuckiego pod tytułem &lt;em&gt;Pamiętnik Munia&lt;/em&gt; z 1900 roku:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Ja sam, jakkolwiek byłem jej siostrzeńcem, zapomniałem zupełnie o różnicy lat, o tym, że mi była ciocią, a widziałem w niej tylko piękną kobietę, w całej pełni rozwiniętych wdzięków, które drażniły młodzieńczą fantazję, nieoswojoną jeszcze z bliskim towarzystwem kobiet, wywoływały przyspieszenie tętna, szczególniej, gdy ciocia tytułem pokrewieństwa, jakie nas łączyło, zachowywała się względem mnie z całą swobodą i poufałością.&lt;/p&gt; &lt;p&gt;Gdyśmy np. wspólne czasem przy lampie oglądali pisma ilustrowane, ona wtedy dla lepszego przypatrzenia się rysunkom opierała się bez ceremonii całym ciężarem swoich niezasznurowanych wdzięków na moich plecach, pochylona ku mnie tak blisko, że ciepły oddech rozgrzewał...</description>
-				<pubDate>Wed, 30 Oct 2013 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2013/10/balucki-romansmunia.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/10/balucki-romansmunia.html</guid>
 			</item>
 		
 	</channel>
