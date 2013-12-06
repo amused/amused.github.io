@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Bilety wizytowe</title>
+				<description>&lt;p&gt;Na boku rozważań o XIX-wiecznym świecie arystokratycznym &amp;#8212; Stanisław Szenic, biografia Marii Kalergis (z której pochodzą również zdjęcia kart wizytowych).&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Tutaj mała dygresja o biletach wizytowych, która rzuci trochę światła na arystokratyczne fumy i życiowe ambicje hr. Fryderyka [Nesselrode].&lt;/p&gt; &lt;/blockquote&gt;&lt;p&gt;&lt;img alt='Karta hr. Fryderyka Nesselrode' src='/assets/karta-nesselrode.jpg' /&gt;&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Jako adiutant wielkiego księcia posługiwał się on reprodukowanym powyżej biletem wizytowym.&lt;/p&gt; &lt;p&gt;Według ogólnie przyjętych zasad podobnych biletów wizytowych, zawierających samo nazwisko bez imienia, mógł używać jedynie szef rodziny, głowa wysoko postawionego arystokratycznego rodu. Przywłaszczenie sobie tego prawa przez członka bocznej linii i w dodatku nie pierworodnego syna nie było oczywiście zjawiskiem odosobnionym w sferze, w której pycha była cechą dominującą.&lt;/p&gt; &lt;p&gt;Dla konfrontacji warto spojrzeć na bilety wizytowe dwóch wysokich dygnitarzy w Królestwie Polskim, stojących...</description>
+				<pubDate>Sat, 07 Dec 2013 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2013/12/biletywizytowe.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/12/biletywizytowe.html</guid>
+			</item>
+		
+			<item>
 				<title>Polska między Rosją a Francją</title>
 				<description>&lt;p&gt;Heinrich Heine, &lt;em&gt;O Polsce&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Polska leży między Rosyą a &amp;#8212; Francyą. Leżących przed Francyą Niemiec nie liczę, ponieważ znaczna część Polaków uważała Niemcy za szerokie bagno, które jak najrychlej należy przeskoczyć, aby dostać się do błogosławionej krainy, gdzie najdelikatniejsze fabrykuje się obyczaje i pomady.&lt;/p&gt; &lt;/blockquote&gt;&lt;p&gt;Heine odwiedził Polskę w 1822 roku, na dobre dwanaście lat przed &amp;#8212; &lt;em&gt;Panem Tadeuszem&lt;/em&gt; Mickiewicza, który zresztą frankomanii nie lubił i nie podzielał:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Lecz wtenczas panowało takie oślepienie,&lt;br /&gt;Że nie wierzono rzeczom najdawniejszym w świecie,&lt;br /&gt;Jeśli ich nie czytano w francuskiej gazecie.&lt;br /&gt;Podczaszyc, mimo równość, wziął tytuł markiża;&lt;br /&gt;Wiadomo, że tytuły przychodzą z Paryża,&lt;br /&gt;A natenczas tam w modzie był tytuł markiża.&lt;br /&gt;Jakoż, kiedy się moda odmieniła z laty,&lt;br /&gt;Tenże sam markiż przybrał tytuł demokraty;&lt;br /&gt;Wreszcie...</description>
 				<pubDate>Fri, 06 Dec 2013 00:00:00 +0100</pubDate>
@@ -80,14 +88,6 @@
 				<pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/11/tadeuszczacki.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/11/tadeuszczacki.html</guid>
-			</item>
-		
-			<item>
-				<title>Malczewski, «O, jak przykro...»</title>
-				<description>&lt;p&gt;Antoni Malczewski nie miał, zanim nie zabrał się do pisania &lt;em&gt;Marii&lt;/em&gt;, szczęścia do poezji; krytycy, w tym Maria Dernałowicz, autorka popularnej Malczewskiego biografii, nie oceniaja wcześniejszych płodów jego pióra zbyt wysoko. Wyróżnia się na tym tle jednak wiersz &lt;em&gt;O, jak przykro do swoich wracać bez nadziei&amp;#8230;&lt;/em&gt;, opublikowany dopiero w 1876 roku w Ateneum (zaraz koło felietonu&amp;#8230; starszego o kilka pokoleń Bolesława Prusa!):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;O, jak przykro do swoich wracać bez nadziei!&lt;br /&gt;Toczy się hucznie powóz w znajomej kolei,&lt;br /&gt;Mija znane przedmioty, ojczyste zagony,&lt;br /&gt;Ale widok ich dla mnie kirem osłoniony.&lt;br /&gt;Ach, czemuż tak jak dawniej o szczęściu nie marzę?&lt;br /&gt;Gdzież te, co się tak lubo uśmiechały, twarze?&lt;br /&gt;Gdzie te serca, co czuły każde serca mego bicie?&lt;br /&gt;Znikły &amp;#8212; przez chwilę tylko...</description>
-				<pubDate>Wed, 27 Nov 2013 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2013/11/malczewski-zapomnianywiersz.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/11/malczewski-zapomnianywiersz.html</guid>
 			</item>
 		
 	</channel>
