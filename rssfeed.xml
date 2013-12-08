@@ -7,6 +7,26 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Na orkan Ksawery</title>
+				<description>&lt;p&gt;Przeszedł przez Polskę w zeszłym tygodniu orkan Ksawery, a z tego powodu okolicznościowy wiersz Antoniego Lange z jego słynnych &lt;em&gt;Rozmyślań&lt;/em&gt; (1906):&lt;/p&gt;&lt;blockquote&gt;
+&lt;p&gt;I&lt;/p&gt;
+
+&lt;p&gt;Orkany wyły i huczał grom&amp;#8230;&lt;br /&gt;Pioruny biły w cichy mój dom.&lt;br /&gt;Oto ponury &amp;#8212; stoję śród zgliszcz!&lt;/p&gt;
+
+&lt;p&gt;O, słońce! Chmury rozpędź i zniszcz&lt;br /&gt;W promieni ruchu, śród złotych drgań!&lt;/p&gt;
+
+&lt;p&gt;Cierpiałeś, duchu! a teraz &amp;#8212; wstań!&lt;/p&gt;
+
+&lt;p&gt;II&lt;/p&gt;
+
+&lt;p&gt;Zbudź się me serce z drętwych snów,&lt;br /&gt;W życia iskierce &amp;#8212; zbudź się znów!&lt;br /&gt;Zbudź się w uśmiechu, w wiosennym echu &amp;#8212;&lt;br /&gt;W kwiatów oddechu &amp;#8212; i pieśń swą mów!&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+				<pubDate>Mon, 09 Dec 2013 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2013/12/lange-orkan.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/12/lange-orkan.html</guid>
+			</item>
+		
+			<item>
 				<title>Latarnia morska (romantyczna)</title>
 				<description>&lt;p&gt;Na świetnym zdjęciu Veselina Malinova portugalska latarnia morska udająca bohatera romantycznego (a poniżej &amp;#8212; &lt;em&gt;Wędrowiec&lt;/em&gt; Friedricha):&lt;/p&gt;&lt;p&gt;&lt;img alt='Latarnia morska, Veselin Malinov' src='/assets/malinov-latarnia.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='C.D. Friedrich, Wędrowiec' src='/assets/friedrich-wanderer.jpg' /&gt;&lt;/p&gt;</description>
 				<pubDate>Sun, 08 Dec 2013 00:00:00 +0100</pubDate>
@@ -80,14 +100,6 @@
 				<pubDate>Sat, 30 Nov 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/11/wezyk-broda.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/11/wezyk-broda.html</guid>
-			</item>
-		
-			<item>
-				<title>Warszawa, rok 1941</title>
-				<description>&lt;p&gt;Zdjęcia zrobione prawdopodobnie w okolicach 28 listopada 1941 roku przez Hansa-Joachima Flessinga. Na pierwszych dwóch zdjęciach Rynek Starego Miasta, na trzecim Pałac na Wodzie w Łazienkach Królewskich, na czwartym Teatr Narodowy, piątym &amp;#8212; dworzec Warszawa Główna, czyli &lt;em&gt;Warschau Hauptbahnhof&lt;/em&gt;.&lt;/p&gt;&lt;p&gt;&lt;img alt='Rynek Starego Miasta' src='/assets/warszawa1941-1.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='Rynek Starego Miasta' src='/assets/warszawa1941-2.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='Pałac na Wodzie' src='/assets/warszawa1941-3.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='Teatr Narodowy' src='/assets/warszawa1941-4.jpg' /&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt='Dworzec Warszawa Główna' src='/assets/warszawa1941-5.jpg' /&gt;&lt;/p&gt;</description>
-				<pubDate>Fri, 29 Nov 2013 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2013/11/warszawa1941.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/11/warszawa1941.html</guid>
 			</item>
 		
 	</channel>
