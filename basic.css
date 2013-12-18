@@ -22,10 +22,10 @@
 }
 h1, h2, h3 {
 	font-family: 'Trebuchet MS', sans-serif;
+	text-align: left;
 }
 h1 {
 	font-size: 32pt;
-	text-align: left;
 }
 h2 {
 	font-size: 24pt;
