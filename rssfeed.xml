@@ -7,7 +7,15 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Dąbrowski, ***</title>
+				<title>Podkowiński, «Zapalacz latarni»</title>
+				<description>&lt;p&gt;Odbitka obrazu &lt;em&gt;Zapalacz latarni&lt;/em&gt; Władysława Podkowińskiego drukowana w &amp;#8220;Wędrowcu&amp;#8221; w 1885 roku &amp;#8212; jako jeden z wielu obrazów codziennego życia Warszawy:&lt;/p&gt;&lt;p&gt;&lt;img alt='Władysław Podkowiński, Zapalacz latarni' src='/assets/podkowinski-zapalczlatarni.jpg' /&gt;&lt;/p&gt;</description>
+				<pubDate>Mon, 23 Dec 2013 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2013/12/podkowinski-zapalaczlatarni.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2013/12/podkowinski-zapalaczlatarni.html</guid>
+			</item>
+		
+			<item>
+				<title>Tadeusz Dąbrowski, ***</title>
 				<description>&lt;p&gt;Wiersz Tadeusza Dąbrowskiego z tomu &lt;em&gt;Czarny kwadrat&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt;
 &lt;p&gt;Latają tu bez przerwy te Ikary, już&lt;br /&gt;przestałem zwracać uwagę &amp;#8212; mówi oracz, nie&lt;br /&gt;odrywając wzroku od gleby, rąk od pługa.&lt;/p&gt;
 
@@ -88,14 +96,6 @@
 				<pubDate>Sat, 14 Dec 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/12/felinski-krzemieniec.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/12/felinski-krzemieniec.html</guid>
-			</item>
-		
-			<item>
-				<title>Ludwik Osiński</title>
-				<description>&lt;p&gt;Z książki Anieli Kowalskiej pod tytułem &lt;em&gt;Warszawa literacka w okresie przełomu kulturalnego 1815-1822&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Na arenie literackich sporów, gdzie ważyły się losy pisarzy, pierwszym autorytetem był Kajetan Koźmian, wysoki urzędnik Królestwa, a tubą jego poglądów &amp;#8212; Ludwik Osiński.&lt;/p&gt; &lt;p&gt;W swoich &lt;em&gt;Pamiętnikach&lt;/em&gt; scharakteryzuje go po latach Koźmian nie bez złośliwości:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Osiński nie tylko tak jak Horacjusz lubił namiętnie&amp;#8230; &lt;em&gt;jocos&lt;/em&gt;, &lt;em&gt;Venerem&lt;/em&gt;, &lt;em&gt;conviva&lt;/em&gt;, &lt;em&gt;ludos&lt;/em&gt;, lecz nawet podobnych wierszem jak Horacjusz mógł wyznać i wyznawał &lt;em&gt;celerem fugam sensit relicta non bene parmula&lt;/em&gt;. Z postaci ciała nie był urodziwym, był małym, pękatym, twarzy ospowatej, przecież niezmiernie zalotnym; podobał się kobietom płochym, lekkim, aktorkom, i przy nich marnował swój talent.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Po tej &amp;#8212; nieuprzedzonej chyba &amp;#8212; cenzurze augura mniej nas zaskakuje osąd jednego z młodych...</description>
-				<pubDate>Fri, 13 Dec 2013 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2013/12/ludwikosinski.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/12/ludwikosinski.html</guid>
 			</item>
 		
 	</channel>
