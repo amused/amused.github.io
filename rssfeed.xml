@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Norwid o Mickiewiczu</title>
+				<description>&lt;p&gt;Z listu Norwida do Jana Skrzyneckiego, generała armii polskiej, wodza naczelnego powstania listopadowego (15 IV 1848):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Długo mógłbym pisać o osobistych mych cierpieniach, które były powodem, iż ze wszystkimi prawie mą korespondencję zerwałem. Pomijam to wszakże i zatrzymam się tylko nad ostatnią (do dziś licząc) boleścią. Generał wie zapewne, iż Mickiewicz przybył tu &amp;#8212; że pragnął (szczerze, jak sądzę) się ukorzyć przed Naczelnikiem Chrześcijaństwa i wieku tego, i narodów.&lt;/p&gt; &lt;p&gt;Trudno zapewne by opisać, jak się tu znalazł, jaką formę względem Kościoła i Polaków ten poeta wielki zająć raczył; dość że (smutno mi wyrzec) znalazłem go albo nałogowo tak już ugrzęzłym w tym kierunku &lt;em&gt;radykalizmu mistycznego&lt;/em&gt;, że się wydobyć zeń nie może, albo najpotężniejszym oszukańcem, jakiego przykładu dotąd nie ma. Ten...</description>
+				<pubDate>Thu, 02 Jan 2014 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2014/01/norwid-mickiewicz.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/01/norwid-mickiewicz.html</guid>
+			</item>
+		
+			<item>
 				<title>Czesław Miłosz, prawnik</title>
 				<description>&lt;p&gt;Z &lt;em&gt;Dialogu o Wilnie&lt;/em&gt; Czesława Miłosza i Tomasa Venclovy wyznanie Miłosza (z książki &lt;em&gt;Powroty do Litwy&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Dotychczas nie umiem sobie odpowiedzieć na pytanie, dlaczego zmarnowałem tyle lat na studiowanie prawa. Było tak: wstąpiłem na polonistykę, skąd uciekłem po dwóch tygodniach, i z chwilą kiedy zapisałem się na prawo, głupi upór (litewski?), wstyd rzucenia czegoś, co się zaczęło, zmusił mnie do przemęczenia się aż do dyplomu. Prawo to było wtedy ogólne wykształcenie, jak dziś w Ameryce antropologia czy socjologia, szli na prawo ci, co nie wiedzieli dobrze, co ze sobą robić. A humanistyka wymagała, żeby powiedzieć sobie: no cóż, będę belfrem w szkole średniej. W młodości ma się te górne i nieokreslone marzenia, trudno być trzeźwym i wyznaczyć sobie skromny zawód...</description>
 				<pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Tue, 24 Dec 2013 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2013/12/stanislawmecinski.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2013/12/stanislawmecinski.html</guid>
-			</item>
-		
-			<item>
-				<title>Podkowiński, «Zapalacz latarni»</title>
-				<description>&lt;p&gt;Odbitka obrazu &lt;em&gt;Zapalacz latarni&lt;/em&gt; Władysława Podkowińskiego drukowana w &amp;#8220;Wędrowcu&amp;#8221; w 1885 roku &amp;#8212; jako jeden z wielu obrazów codziennego życia Warszawy:&lt;/p&gt;&lt;p&gt;&lt;img alt='Władysław Podkowiński, Zapalacz latarni' src='/assets/podkowinski-zapalaczlatarni.jpg' /&gt;&lt;/p&gt;</description>
-				<pubDate>Mon, 23 Dec 2013 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2013/12/podkowinski-zapalaczlatarni.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2013/12/podkowinski-zapalaczlatarni.html</guid>
 			</item>
 		
 	</channel>
