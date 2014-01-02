@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://amused.github.io/2013/01/norwid-mickiewicz.html</loc>
+        <lastmod>2014-01-02T17:13:19+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://amused.github.io/2013/09/noweateny.html</loc>
         <lastmod>2013-12-15T14:19:34+01:00</lastmod>
     </url>
@@ -369,8 +373,12 @@
         <lastmod>2013-12-30T15:27:40+01:00</lastmod>
     </url>
     <url>
+        <loc>http://amused.github.io/2014/01/milosz-prawnik.html</loc>
+        <lastmod>2014-01-02T17:12:41+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://amused.github.io/</loc>
-        <lastmod>2013-12-30T15:27:40+01:00</lastmod>
+        <lastmod>2014-01-02T17:13:19+01:00</lastmod>
     </url>
     <url>
         <loc>http://amused.github.io/rssfeed.xml</loc>
