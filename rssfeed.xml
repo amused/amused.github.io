@@ -7,8 +7,16 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Pszenica w cenzurze</title>
+				<description>&lt;p&gt;Z książki Janiny Kulczyckiej-Saloni &lt;em&gt;Życie literackie Warszawy w latach 1864-1892&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Redaktor &amp;#8220;Gazety Rolniczej&amp;#8221; i &amp;#8220;Kuriera Rolniczego&amp;#8221; wspomina o swoich przeprawach z cenzurą, które są doskonałą ilustracją [sytuacji w drugiej połowie XIX wieku]. Oto we fragmencie poświęconym &amp;#8220;pszenicy polskiej&amp;#8221; cenzor wykreślił przymiotnik &amp;#8220;polska&amp;#8221; i zastąpił go przymiotnikiem &amp;#8220;krajowa&amp;#8221;. Daremno autor tłumaczył, że termin &amp;#8220;pszenica polska&amp;#8221; (&lt;em&gt;triliculum polonicum&lt;/em&gt;) jest terminem botanicznym i wszelka zmiana czyni cały ustęp niezrozumiałym, ponieważ nikt się nie domyśli, że chodzi tu o znaną na całym świecie odmianę.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Nie mogłem przystać &amp;#8212; pisze Aleksander Trylski &amp;#8212; na przeróbkę cenzora, wyjaśniłem to prezesowi, który snadź bieglejszy w botanice od swego podwładnego, nazwę botaniczną łaskawie przywrócić raczył. Było to jedyne może zwycięstwo odniesione nad prześladującym mnie cenzorem.&lt;/p&gt; &lt;/blockquote&gt; &lt;/blockquote&gt;...</description>
+				<pubDate>Mon, 03 Feb 2014 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2014/02/pszenica-cenzura.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/02/pszenica-cenzura.html</guid>
+			</item>
+		
+			<item>
 				<title>Z życia postaci fikcyjnych</title>
-				<description>&lt;p&gt;Jak opowiadał Kazimierz Ehrenberg Boyowi-Żeleńskiemu (&lt;em&gt;Obrachubki fredrowskie&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt;
+				<description>&lt;p&gt;Jak opowiadał Kazimierz Ehrenberg Boyowi-Żeleńskiemu (&lt;em&gt;Obrachunki fredrowskie&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt;
 &lt;p&gt;Kiedyś, przed laty, wyszedłszy z przedstawienia &lt;em&gt;Pana Damazego&lt;/em&gt;, zapytałem Blizińskiego [autora rzeczonej komedii]: &amp;#8220;Panie Józefie, niech mi pan powie, czy między Sewerynem a Mańką było coś, czy nie?&amp;#8221; Bliziński popatrzył na mnie i rzekł: &amp;#8220;Pan mnie pierwszy o to pyta. Ja sam mocno się nad tym zastanawiałem po napisaniu sztuki. Myślałem, że któraś aktorka grająca rolę Mańki mi to wyjaśni. Niech pan sobie wyobrazi, żadna klępa nie umiała mi odpowiedzieć&amp;#8230;&amp;#8221;&lt;/p&gt;
 &lt;/blockquote&gt;</description>
 				<pubDate>Sun, 02 Feb 2014 00:00:00 +0100</pubDate>
@@ -82,14 +90,6 @@
 				<pubDate>Sat, 25 Jan 2014 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2014/01/goszczynski-lososie.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2014/01/goszczynski-lososie.html</guid>
-			</item>
-		
-			<item>
-				<title>Kleiner, wczesna edukacja Mickiewicza</title>
-				<description>&lt;p&gt;Z wielkiej i poetyckiej nieco biografii Adama Mickiewicza pióra Juliusza Kleinera fragment o wczesnej edukacji wieszcza (na zdjęciu &amp;#8212; klasztor dominikanów w Nowogródku Szedera László):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;We wrześniu 1807 r. Adam Mickiewicz wraz z bratem starszym wszedł w poczet uczniów szkoły powiatowej. Był to typ szkoły średniej o nieco niższym poziomie nauk niż w gimnazjach właściwych, lecz o programie dość rozległym, w myśl wymagań wileńskiego okręgu szkolnego. Kierujący szkołą dominikanie nie odznaczali się świetnością pedagogii. Niechęć do mnichów była jednym z trwałych rezultatów nauki, którą Mickiewicz u zakonników pobierał. Ale wyniósł ze szkoły sporo wiedzy i umiłowanie autorów rzymskich, a nie brakło też materiału wspomnień miłych. Dostarczyło ich nie samo tylko powodzenie w naukach, dające po raz pierwszy widzieć siebie drukowanym;...</description>
-				<pubDate>Fri, 24 Jan 2014 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2014/01/mickiewicz-wczesnaedukacja.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2014/01/mickiewicz-wczesnaedukacja.html</guid>
 			</item>
 		
 	</channel>
