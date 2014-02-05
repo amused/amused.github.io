@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lévi-Strauss o kuchni japońskiej</title>
+				<description>&lt;p&gt;Wywiad z Claude&amp;#8217;em Lévi-Straussem przeprowadzony przez Junzo Kawadę (z książki Straussa &lt;em&gt;Druga strona księżyca. Pisma o Japonii&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Junzo Kawada: Zawsze cechowała pana żywa ciekawość intelektualna, ale także i gastronomiczna. Czy może pan skomentować kuchnię japońską na podstawie pańskiego własnego doświadczenia?&lt;/p&gt; &lt;p&gt;Claude Lévi-Strauss: Pan wie, że od razu polubiłem kuchnię japońską. Jednak było w niej dla mnie wiele nowości. Oczywiście przebywając wśród Indian w Brazylii, jadłem żywe larwy &amp;#8212; surowe, tak!, ale nie jadłem surowej ryby; &lt;em&gt;sashimi&lt;/em&gt;, absolutnie tego nie znałem&amp;#8230;&lt;/p&gt; &lt;p&gt;JK: O tak, surowy karp!&lt;/p&gt; &lt;p&gt;CLS: Tak, tak, podobnie i inne ryby. To, co od razu mi się spodobało w kuchni japońskiej, to to, co zawsze mnie urzekało w &lt;em&gt;ukiyo-e&lt;/em&gt;, a także to, co ogólnie nazywa się &amp;#8220;sztuką Yamato&amp;#8221;, czyli...</description>
+				<pubDate>Thu, 06 Feb 2014 00:00:00 +0100</pubDate>
+				<link>http://amused.github.io/2014/02/levistrauss-kuchniajaponska.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/02/levistrauss-kuchniajaponska.html</guid>
+			</item>
+		
+			<item>
 				<title>Początki Uniwersytetu Warszawskiego</title>
 				<description>&lt;p&gt;Z książki Anieli Kowalskiej pod tytułem &lt;em&gt;Warszawa literacka w okresie przełomu kulturalnego 1815-1822&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;Wiedzieli przecież i cieszyli się z tego wszyscy, że rozwojowi kulturalnemu kraju, sprawom nauki i literatury, postępowi oświaty w stolicy patronuje i służy &amp;#8212; w symbiozie z Towarzystwem Przyjaciół Nauk &amp;#8212; świeżo założony i rozbudowany Uniwersytet Warszawski. Jeszcze w listopadzie 1816 r. został podpisany, a na początku 1817 ukazał się na łamach gazet stołecznych reskrypt Aleksandra I w języku łacińskim i polskim, a więc bardzo uroczyście i godnie, o utworzeniu Warszawskiego Królewskiego Uniwersytetu, czyli Szkoły Głównej pięciowydziałowej, z nowymi wydziałami: teologicznym, matematyczno-fizycznym i humanistycznym, &amp;#8220;pod bezpośrednim zwierzchnictwem rektora i właściwych dziekanów&amp;#8221;.&lt;/p&gt; &lt;p&gt;Warszawska wyższa uczelnia, mieszcząca się na Krakowskim Przedmieściu, w samym sercu stolicy, na rozbudowanych terenach dawnego,...</description>
 				<pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
@@ -82,14 +90,6 @@
 				<pubDate>Tue, 28 Jan 2014 00:00:00 +0100</pubDate>
 				<link>http://amused.github.io/2014/01/prowincja-warszawa.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2014/01/prowincja-warszawa.html</guid>
-			</item>
-		
-			<item>
-				<title>Maksim Worobiew, «Dąb...»</title>
-				<description>&lt;p&gt;Obraz Maksima Worobiewa, rosyjskiego malarza romantycznego, pod tytułem &lt;em&gt;Dąb złamany przez błyskawicę, albo alegoria śmierci mojej żony&lt;/em&gt;:&lt;/p&gt;&lt;p&gt;&lt;img alt='Worobiew, Dąb' src='/assets/vorobiev-oakfracturedbyalightning.jpg' /&gt;&lt;/p&gt;</description>
-				<pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
-				<link>http://amused.github.io/2014/01/worobiew-dab.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2014/01/worobiew-dab.html</guid>
 			</item>
 		
 	</channel>
