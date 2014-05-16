@@ -11,9 +11,9 @@
 
 /* TYPOGRAPHY */
 #main {
-	font-family: 'Georgia', serif;
-	font-size: 14pt;
-	line-height: 1.6em;
+	font-family: 'Athelas', 'Georgia', serif;
+	font-size: 15pt;
+	line-height: 1.4em;
 	text-align: justify;			    			
 	-webkit-hyphens: auto;
 	-moz-hyphens: auto;
@@ -21,25 +21,29 @@
 	hyphens: auto;
 }
 h1, h2, h3 {
-	font-family: 'Trebuchet MS', sans-serif;
 	text-align: left;
 }
 h1 {
-	font-size: 32pt;
+	font-size: 38pt;
 }
 h2 {
-	font-size: 24pt;
+	font-size: 28pt;
 	border-bottom: 1px solid;
 	line-height: 1.1em;
 }
 h3 {
-	font-size: 18pt;
+	font-size: 22pt;
 }
 a {
 	text-decoration: none;
 }
-blockquote * {
-	font-family: 'Palatino', 'Georgia', serif;
+#navigation p {
+	font-size: 22pt;
+}
+
+#description p {
+	font-size: 12pt;
+	line-height: 1.2em;
 }
 
 /* COLORS */
@@ -73,8 +77,11 @@ p a:hover {
 .info a:hover {
 	color: rgb(172, 172, 172);
 }
-blockquote {
-	color: rgb(51, 51, 51);
+p {
+	color: rgb(61, 61, 61);
+}
+blockquote p {
+	color: rgb(29, 29, 29);
 }
 img {
 	border-color: rgb(0, 0, 0);
@@ -92,7 +99,10 @@ strong {
 	margin-bottom: 20px;
 }
 h1 {
-	margin-bottom: 70px;
+	margin-bottom: 30px;
+}
+#description {
+	margin-bottom: 50px;
 }
 h2 {
 	margin-bottom: 30px;
