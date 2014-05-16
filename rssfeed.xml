@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Nowe Ateny</title>
-		<description>Blog o Warszawie, literaturze i wszystkim pomiędzy ;-)</description>
+		<description>Nowe Ateny — zbitka barwnych i oryginalnych cytatów z dzieł zapomnianych — anegdot z towarzystw wszelkiego autoramentu — literackich plotek różnej akuratności. Mądrym dla memoryjału, idiotom dla nauki, jak mawiał Benedykt Chmielowski</description>
 		<link>http://amused.github.io</link>
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
