@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Kursy Yale (OYC)</title>
+				<description>&lt;p&gt;Autor bloga na chwilę zawiesił swoją działalność, głównie z powodu nadchodzącej sesji i bardzo pracowicie zapowiadających się wakacji. Wróci, ale nie w najbliższym czasie.&lt;/p&gt;&lt;p&gt;&lt;img alt='Open Yale Courses' src='/assets/kursy-yale.png' /&gt;&lt;/p&gt;&lt;p&gt;Tymczasem polecam &lt;a href='http://oyc.yale.edu'&gt;otwarte kursy internetowe&lt;/a&gt; Uniwersytetu Yale. Bardzo ciekawe rzeczy.&lt;/p&gt;</description>
+				<pubDate>Mon, 26 May 2014 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2014/05/kursy-yale.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/05/kursy-yale.html</guid>
+			</item>
+		
+			<item>
 				<title>Poe, «Do matki»</title>
 				<description>&lt;p&gt;Wiersz Edgara Allana Poe &lt;em&gt;Do matki&lt;/em&gt; &amp;#8212; w tłumaczeniu Antoniego Lange:&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;W niebiosach &amp;#8212; przeczuwana z dawna to zagadka &amp;#8212;&lt;br /&gt;Kiedy anioły szepczą ze soba do ucha,&lt;br /&gt;Nie znajdą śród wyrazów najsłodszych dla ducha&lt;br /&gt;Gorętszego, świętszego nad ten wyraz: &amp;#8220;Matka!&amp;#8221;&lt;/p&gt; &lt;p&gt;Więc z dawna cię już zowiem tym imieniem drogiem,&lt;br /&gt;Ciebie, coś mi jest więcej niz matka rodzona,&lt;br /&gt;I jedna dziś napełniasz treść mojego łona,&lt;br /&gt;Odkąd nasza Wirginia stanęła przed Bogiem.&lt;/p&gt; &lt;p&gt;Matka moja, co wcześnie opuściła syna,&lt;br /&gt;Była tylko mą własną matką, lecz jedyna&lt;br /&gt;Ty &amp;#8212; byłaś matką owej, com kochał nad życie.&lt;/p&gt; &lt;p&gt;Droższaś mi więc od matki, com miał w dni rozkwicie,&lt;br /&gt;Tak jak moja małżonka, co śpi w grobowców głuszy,&lt;br /&gt;Była droższą mej duszy nad życie mej duszy.&lt;/p&gt; &lt;/blockquote&gt;...</description>
 				<pubDate>Sun, 27 Apr 2014 00:00:00 +0200</pubDate>
@@ -78,14 +86,6 @@
 				<pubDate>Sat, 19 Apr 2014 00:00:00 +0200</pubDate>
 				<link>http://amused.github.io/2014/04/sepszarzynski-sonet3.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2014/04/sepszarzynski-sonet3.html</guid>
-			</item>
-		
-			<item>
-				<title>Casorati, «La Preghiera»</title>
-				<description>&lt;p&gt;Chociaż wygląda jak rasowy Klimt, ten obraz z 1914 roku, pod tytułem &lt;em&gt;La Preghiera&lt;/em&gt; (&lt;em&gt;Modlitwa&lt;/em&gt;) wyszedł spod pędzla Felice Casoratiego.&lt;/p&gt;&lt;p&gt;&lt;img alt='La Preghiera' src='/assets/casorati-lapreghiera.jpg' /&gt;&lt;/p&gt;</description>
-				<pubDate>Fri, 18 Apr 2014 00:00:00 +0200</pubDate>
-				<link>http://amused.github.io/2014/04/casorati-lapreghiera.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2014/04/casorati-lapreghiera.html</guid>
 			</item>
 		
 	</channel>
