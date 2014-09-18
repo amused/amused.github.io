@@ -160,3 +160,7 @@ img {
 .set-5 {
 	font-size: 24px;
 }
+#tags a {
+	padding-left: 3px;
+	padding-right: 3px;
+}
