@@ -7,6 +7,14 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>O miejsce powieści</title>
+				<description>&lt;p&gt;Refleksja teoretycznoliteracka Boya (&lt;em&gt;Mózg i płeć&lt;/em&gt;):&lt;/p&gt;&lt;blockquote&gt; &lt;p&gt;W jednej ze swoich wypowiedzi, w których często kaprys artysty obleka się w togę kodyfikatora sztuki, St. I. Witkiewicz orzeka, że o ile poezja i dramat są dziełami sztuki, o tyle powieść nim nie jest. Zanimby się uznało ten podział, trzeba by wprzód postanowić, co w takim razie począć z Balzakiem, Dickensem, Dostojewskim, Prusem, Proustem, Conradem i tyloma innymi, wygnanymi tym wyrokiem z raju sztuki. Czy stworzyć dla nich &amp;#8220;otchłań&amp;#8221;, jak ją stworzono dla owych sprawiedliwych, a nie znających światła prawdziwej wiary &amp;#8212; Sokrates, Platon, Marek Aureliusz &amp;#8212; którzy nie mogą dostąpić niebios, a których żal było wydać na wiekuiste męki? Boję się, że w sprawach sztuki takie radykalne podziały więcej narobiłyby kłopotu niż...</description>
+				<pubDate>Thu, 25 Sep 2014 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2014/09/miejsce-powiesci.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/09/miejsce-powiesci.html</guid>
+			</item>
+		
+			<item>
 				<title>Przerwa-Tetmajer, «Motyl»</title>
 				<description>&lt;p&gt;Wiersz Kazimierza Przerwy-Tetmajera, &lt;em&gt;Motyl&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt;
 &lt;p&gt;Wyżej! Kędy wiatr gwiżdże i po turniach dzwoni,&lt;br /&gt;Tam, kędy obłok oparł o głaz białe stopy&lt;br /&gt;I złotych blasków słońca wziąwszy na grzbiet snopy,&lt;br /&gt;Ku błękitnym niebiosom wzniósł purpurę skroni!&lt;/p&gt;
@@ -106,14 +114,6 @@
 				<pubDate>Tue, 16 Sep 2014 00:00:00 +0200</pubDate>
 				<link>http://amused.github.io/2014/09/mallarme-sonetnayx.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2014/09/mallarme-sonetnayx.html</guid>
-			</item>
-		
-			<item>
-				<title>Kursy Yale (OYC)</title>
-				<description>&lt;p&gt;Autor bloga na chwilę zawiesił swoją działalność, głównie z powodu nadchodzącej sesji i bardzo pracowicie zapowiadających się wakacji. Wróci, ale nie w najbliższym czasie.&lt;/p&gt;&lt;p&gt;&lt;img alt='Open Yale Courses' src='/assets/kursy-yale.png' /&gt;&lt;/p&gt;&lt;p&gt;Tymczasem polecam &lt;a href='http://oyc.yale.edu'&gt;otwarte kursy internetowe&lt;/a&gt; Uniwersytetu Yale. Bardzo ciekawe rzeczy.&lt;/p&gt;</description>
-				<pubDate>Mon, 26 May 2014 00:00:00 +0200</pubDate>
-				<link>http://amused.github.io/2014/05/kursy-yale.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2014/05/kursy-yale.html</guid>
 			</item>
 		
 	</channel>
