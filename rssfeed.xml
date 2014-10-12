@@ -7,8 +7,18 @@
 		<atom:link href="http://amused.github.io/rss.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Miłosz, «Sekretarze»</title>
+				<description>&lt;p&gt;Wiersz Czesława Miłosza &lt;em&gt;Sekretarze&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt;
+&lt;p&gt;Sługa ja tylko jestem niewidzialnej rzeczy,&lt;br /&gt;Która jest dyktowana mnie i kilku innym.&lt;br /&gt;Sekretarze, nawzajem nieznani, po ziemi chodzimy,&lt;br /&gt;Niewiele rozumiejąc. Zaczynając w połowie zdania,&lt;br /&gt;Urywając inne przed kropką. A jaka złoży się całość&lt;br /&gt;Nie nam dochodzić, bo nikt z nas jej nie odczyta.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+				<pubDate>Mon, 13 Oct 2014 00:00:00 +0200</pubDate>
+				<link>http://amused.github.io/2014/10/milosz-sekretarze.html</link>
+				<guid isPermaLink="true">http://amused.github.io/2014/10/milosz-sekretarze.html</guid>
+			</item>
+		
+			<item>
 				<title>La Rochefoucauld, maksyma 116</title>
-				<description>&lt;p&gt;Z &lt;em&gt;Maksym i rozważań moralnym&lt;/em&gt; François de La Rochefoucould w tłumaczeniu Boya maksyma 116:&lt;/p&gt;&lt;blockquote&gt;
+				<description>&lt;p&gt;Z &lt;em&gt;Maksym i rozważań moralnych&lt;/em&gt; François de La Rochefoucould w tłumaczeniu Boya maksyma 116:&lt;/p&gt;&lt;blockquote&gt;
 &lt;p&gt;Nic obłudniejszego nad sposób, w jaki prosimy o rady i udzielamy ich. Ten, kto prosi o nie, udaje pełną szacunku pwoolność dla zdania swego przyjaciela, mimo iż pragnie jedynie uzyskać odeń potwierdzenie własnych poglądów i narzucać mu rękojmię swego postępowania; ten, który radzi, płaci okazane mu zaufanie żywą i bezinteresowną gorliwością, mimo że najczęściej w radach, które daje, szuka jedynie własnej korzyści lub chluby.&lt;/p&gt;
 &lt;/blockquote&gt;</description>
 				<pubDate>Sun, 12 Oct 2014 00:00:00 +0200</pubDate>
@@ -86,24 +96,6 @@
 				<pubDate>Sat, 04 Oct 2014 00:00:00 +0200</pubDate>
 				<link>http://amused.github.io/2014/10/strindberg-teatrwodka.html</link>
 				<guid isPermaLink="true">http://amused.github.io/2014/10/strindberg-teatrwodka.html</guid>
-			</item>
-		
-			<item>
-				<title>Korab-Brzozowski, «Anioł Pański»</title>
-				<description>&lt;p&gt;Wiersz Stanisława Korab-Brzozowskiego &lt;em&gt;Anioł Pański&lt;/em&gt;:&lt;/p&gt;&lt;blockquote&gt;
-&lt;p&gt;Łkają przeciągle dzwony nieszporne,&lt;br /&gt;Prosząc o ciszę dla zmarłych dzielnic;&lt;br /&gt;W mojej samotni, jakby z kadzielnic,&lt;br /&gt;Snują się zwolna mroki wieczorne.&lt;/p&gt;
-
-&lt;p&gt;Prosząc o ciszę dla zmarłych dzielnic,&lt;br /&gt;Dziwna tęsknota łka w moim łonie;&lt;br /&gt;W mojej samotni, jakby z kadzielnic,&lt;br /&gt;Mdlejących kwiatów snują się wonie.&lt;/p&gt;
-
-&lt;p&gt;Dziwna tęsknota łka w mojem łonie;&lt;br /&gt;Słyszę pożegnań żałobne psalmy,&lt;br /&gt;Mdlejących kwiatów snują się wonie,&lt;br /&gt;Na trumnie więdną święcone palmy.&lt;/p&gt;
-
-&lt;p&gt;Słyszę pożegnań żałobne psalmy,&lt;br /&gt;Oczy przesłania opona mglista,&lt;br /&gt;Na trumnie więdną święcone palmy:&lt;br /&gt;&amp;#8220;Niech światłość świeci jej wiekuista&amp;#8221;.&lt;/p&gt;
-
-&lt;p&gt;Oczy przesłania opona mglista;&lt;br /&gt;Kolana same gną się pokornie &amp;#8212;&lt;br /&gt;&amp;#8220;Niech światłość świeci jej wiekuista&amp;#8221; &amp;#8212;&lt;br /&gt;Łkają przeciągle dzwony nieszporne.&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-				<pubDate>Fri, 03 Oct 2014 00:00:00 +0200</pubDate>
-				<link>http://amused.github.io/2014/10/korabbrzozowski-aniolpanski.html</link>
-				<guid isPermaLink="true">http://amused.github.io/2014/10/korabbrzozowski-aniolpanski.html</guid>
 			</item>
 		
 	</channel>
